@@ -1,0 +1,710 @@
+[
+  {
+    "name": "Administraci\u00f3n de Asuntos Federales de Puerto Rico (PRFAA)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=029",
+    "url": "https://prfaa.pr.gov",
+    "revised_at": "2022-10-14T14:15:32"
+  },
+  {
+    "name": "Administraci\u00f3n de Compensaciones por Accidentes de Automoviles (ACAA)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=079",
+    "url": "http://www.acaa.pr.gov/",
+    "revised_at": "2022-10-14T14:25:46"
+  },
+  {
+    "name": "Administraci\u00f3n de Desarrollo Socioecon\u00f3mico de la Familia (Dpto. Familia)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=127",
+    "url": "https://servicios.adsef.pr.gov",
+    "revised_at": "2022-10-14T14:29:05"
+  },
+  {
+    "name": "Administraci\u00f3n de Familias y Ni\u00f1os  (Dpto. Familia)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=123",
+    "url": "https://adfan.pr.gov",
+    "revised_at": "2022-10-14T14:31:39"
+  },
+  {
+    "name": "Administraci\u00f3n de Instituciones Juveniles (Dpto. Correcci\u00f3n)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=072",
+    "url": "http://dcr.pr.gov/",
+    "revised_at": "2022-10-14T14:37:34"
+  },
+  {
+    "name": "Administraci\u00f3n de los Sistemas de Retiro de los Empleados del Gobierno y la Judicatura (ASR)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=026",
+    "url": "http://www.retiro.pr.gov",
+    "revised_at": "2022-10-14T14:41:23"
+  },
+  {
+    "name": "Administraci\u00f3n de Rehabilitaci\u00f3n Vocacional (ARV)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=126",
+    "url": "http://www.arv.pr.gov",
+    "revised_at": "2022-10-14T14:42:47"
+  },
+  {
+    "name": "Administraci\u00f3n de Seguros de Salud (ASES)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=187",
+    "url": "https://www.asespr.org",
+    "revised_at": "2022-10-14T14:45:26"
+  },
+  {
+    "name": "Administraci\u00f3n de Servicios de Salud Mental y Contra la Adicci\u00f3n (Dpto. Salud)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=095",
+    "url": "https://assmca.pr.gov",
+    "revised_at": "2022-10-14T14:47:36"
+  },
+  {
+    "name": "Administraci\u00f3n de Servicios Generales (ASG)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=031",
+    "url": "https://asg.pr.gov",
+    "revised_at": "2022-10-14T14:48:52"
+  },
+  {
+    "name": "Administraci\u00f3n de Servicios M\u00e9dicos (Dpto. Salud)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=090",
+    "url": "https://www.asem.pr.gov/",
+    "revised_at": "2022-10-14T14:50:59"
+  },
+  {
+    "name": "Administraci\u00f3n de Terrenos (Dpto. Desarrollo Econ\u00f3mico)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=177",
+    "url": "https://www.terrenos.pr.gov",
+    "revised_at": "2022-10-14T14:54:54"
+  },
+  {
+    "name": "Administraci\u00f3n de Vivienda P\u00fablica (Dpto. Vivienda)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=106",
+    "url": "https://www.avp.pr.gov",
+    "revised_at": "2022-10-14T14:56:59"
+  },
+  {
+    "name": "Administraci\u00f3n para el Cuidado y Desarrollo Integral de la Ni\u00f1ez (Dpto. Familia)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=241",
+    "url": "https://acuden.pr.gov/",
+    "revised_at": "2022-10-14T15:23:27"
+  },
+  {
+    "name": "Administraci\u00f3n para el Desarrollo de Empresas Agropecuarias (Dpto. Agricultura)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=666",
+    "url": "https://www.agricultura.pr/",
+    "revised_at": "2022-10-14T15:30:36"
+  },
+  {
+    "name": "Administraci\u00f3n para el Sustento de Menores (Dpto.Familia)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=124",
+    "url": "https://asume.pr.gov/",
+    "revised_at": "2022-10-14T15:32:50"
+  },
+  {
+    "name": "Agencia Estatal para el Manejo de Emergencias y Administraci\u00f3n de Desastres (AEMEAD)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=021",
+    "url": "https://manejodeemergencias.pr.gov/",
+    "revised_at": "2022-10-14T15:37:52"
+  },
+  {
+    "name": "Autoridad de Acueductos y Alcantarillados (AAA) ",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=163",
+    "url": "https://www.acueductospr.com/",
+    "revised_at": "2022-10-14T15:40:17"
+  },
+  {
+    "name": "Autoridad de Carreteras y Transportaci\u00f3n (Dpto.  DTOP)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=179",
+    "url": "https://act.dtop.pr.gov/",
+    "revised_at": "2022-10-14T16:03:43"
+  },
+  {
+    "name": "Autoridad de Deperdicios S\u00f3lidos (ADS)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=184",
+    "url": "https://www.drna.pr.gov/otrora-ads/",
+    "revised_at": "2022-10-14T16:00:58"
+  },
+  {
+    "name": "Autoridad de Edificios P\u00fablicos (AEP)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=162",
+    "url": "http://www.aep.pr.gov/",
+    "revised_at": "2022-10-14T16:07:08"
+  },
+  {
+    "name": "Autoridad de Energ\u00eda El\u00e9ctrica (AEE)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=169",
+    "url": "https://aeepr.com/",
+    "revised_at": "2022-10-14T16:10:19"
+  },
+  {
+    "name": "Autoridad de los Puertos (AP)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=168",
+    "url": "https://www.prpa.pr.gov/",
+    "revised_at": "2022-10-14T16:11:18"
+  },
+  {
+    "name": "Autoridad de Tierras de Puerto Rico (Dpto. Agricultura)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=165",
+    "url": "https://www.agricultura.pr/autoridad-tierras",
+    "revised_at": "2022-10-14T16:14:05"
+  },
+  {
+    "name": "Autoridad de Transporte Mar\u00edtimo (Dpto. DTOP)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=178",
+    "url": "https://www.puertoricoferry.com/",
+    "revised_at": "2022-10-14T16:19:02"
+  },
+  {
+    "name": "Autoridad del Distrito del Centro de Convenciones de Puerto Rico",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=309",
+    "url": "http://www.prcda.com",
+    "revised_at": "2022-10-14T16:20:04"
+  },
+  {
+    "name": "Autoridad del Puerto de Ponce",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=238",
+    "url": "https://www.ppa.pr.gov/",
+    "revised_at": "2022-10-14T16:25:49"
+  },
+  {
+    "name": "Autoridad Metropolitana de Autobuses (Dpto.DTOP)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=174",
+    "url": "https://www.dtop.pr.gov/ama",
+    "revised_at": "2022-10-14T16:27:39"
+  },
+  {
+    "name": "Autoridad para el Financiamiento de Facilidades Industriales, Tur\u00edsticas, Educativas, M\u00e9dicas y de Control Ambiental (Banco Gubernamental)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=211",
+    "url": "http://www.gdb-pur.com/spa/affiliates/afica.html",
+    "revised_at": "2022-10-14T16:34:24"
+  },
+  {
+    "name": "Autoridad para el Financiamiento de la Infraestructura de Puerto Rico (AFI)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=161",
+    "url": "https://afi.pr.gov",
+    "revised_at": "2022-10-14T16:39:00"
+  },
+  {
+    "name": "Autoridad para el Financiamiento de la Vivienda (Banco Gubernamental)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=235",
+    "url": "http://www.afv.pr.gov",
+    "revised_at": "2022-05-31T18:26:15"
+  },
+  {
+    "name": "Autoridad para las Alianzas P\u00fablico Privadas (Banco Gubernamental)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=667",
+    "url": "https://www.p3.pr.gov/es/",
+    "revised_at": "2022-10-14T17:57:02"
+  },
+  {
+    "name": "Banco de Desarrollo Econ\u00f3mico (Dpto. Desarrollo Econ\u00f3mico)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=195",
+    "url": "https://www.bde.pr.gov/",
+    "revised_at": "2022-10-14T17:59:17"
+  },
+  {
+    "name": "Banco Gubernamental de Fomento (BGF)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=172",
+    "url": "http://www.gdb-pur.com/spa",
+    "revised_at": "2022-10-14T18:03:20"
+  },
+  {
+    "name": "Censo de Puerto Rico",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=399",
+    "url": "https://jp.pr.gov/censo",
+    "revised_at": "2022-10-14T18:18:34"
+  },
+  {
+    "name": "Centro de Diabetes para Puerto Rico (CDPR)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=500",
+    "url": "https://www.diabetes.pr.gov/",
+    "revised_at": "2022-10-14T18:20:22"
+  },
+  {
+    "name": "Centro de Recaudaciones de Ingresos Municipales (CRIM)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=113",
+    "url": "https://portal.crim360.com/",
+    "revised_at": "2022-10-14T18:23:08"
+  },
+  {
+    "name": "Colegio Universitario de Justicia Criminal (Acad\u00e9mia de la Polic\u00eda)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=257",
+    "url": "https://policia.pr.gov/",
+    "revised_at": "2022-10-14T18:31:02"
+  },
+  {
+    "name": "Comisi\u00f3n de Derechos Civiles (CDC)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=037",
+    "url": "https://cdc.pr.gov/",
+    "revised_at": "2022-10-14T18:36:47"
+  },
+  {
+    "name": "Comisi\u00f3n de Desarrollo Cooperativo de Puerto Rico (CDCOOP)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=062",
+    "url": "https://cdcoop.pr.gov/",
+    "revised_at": "2022-10-14T18:39:26"
+  },
+  {
+    "name": "Comisi\u00f3n de Investigaci\u00f3n, Procesamiento y Apelaci\u00f3n (CIPA)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=034",
+    "url": "https://www.cipa.pr.gov",
+    "revised_at": "2022-10-14T18:58:03"
+  },
+  {
+    "name": "Comisi\u00f3n de Juegos del Gobierno de Puerto Rico",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=089",
+    "url": "https://comjuegos.pr.gov/",
+    "revised_at": "2022-10-14T18:58:52"
+  },
+  {
+    "name": "Comisi\u00f3n de Servicio P\u00fablico (CSP)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=065",
+    "url": "https://ntsp.pr.gov",
+    "revised_at": "2022-10-14T19:09:24"
+  },
+  {
+    "name": "Comisi\u00f3n Estatal de Elecciones (CEE)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=028",
+    "url": "https://www.ceepur.org/",
+    "revised_at": "2022-10-14T19:12:06"
+  },
+  {
+    "name": "Comisi\u00f3n Industrial de Puerto Rico (CIPR)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=105",
+    "url": "https://www.cipr.pr.gov/",
+    "revised_at": "2022-10-14T19:14:17"
+  },
+  {
+    "name": "Comisi\u00f3n para la Seguridad en el Tr\u00e1nsito (CST)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=011",
+    "url": "http://www.comisionparalaseguridadeneltransito.com/",
+    "revised_at": "2022-10-14T19:20:04"
+  },
+  {
+    "name": "Compa\u00f1ia de Comercio y Exportaci\u00f3n de Puerto Rico (Dpto. Desarrollo Econ\u00f3mico)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=258",
+    "url": "http://comercioyexportacion.com/",
+    "revised_at": "2022-10-14T19:45:35"
+  },
+  {
+    "name": "Compa\u00f1\u00eda de Fomento Industrial (Dpto. Desarrollo Econ\u00f3mico) ",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=166",
+    "url": "https://pridco.pr.gov/es",
+    "revised_at": "2022-10-14T19:48:49"
+  },
+  {
+    "name": "Compa\u00f1\u00eda de Turismo de Puerto Rico (Dpto. Desarrollo Econ\u00f3mico)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=180",
+    "url": "https://prtourism.com/?lang=es",
+    "revised_at": "2022-10-14T20:01:10"
+  },
+  {
+    "name": "Compa\u00f1\u00eda para el Desarrollo Integral de la Pen\u00ednsula de Cantera",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=167",
+    "url": "https://peninsuladecantera.com/",
+    "revised_at": "2022-10-14T20:04:10"
+  },
+  {
+    "name": "Consejo de Educaci\u00f3n de Puerto Rico (CEPR)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=182",
+    "url": "https://ce.pr.gov",
+    "revised_at": "2022-10-14T20:05:57"
+  },
+  {
+    "name": "Corporaci\u00f3n de la Orquesta Sinf\u00f3nica de PR (COSPR)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=1911",
+    "url": "https://www.cba.pr.gov/?page_id=14464",
+    "revised_at": "2022-10-14T20:28:15"
+  },
+  {
+    "name": "Corporaci\u00f3n de PR para la Difusi\u00f3n P\u00fablica (WIPR)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=196",
+    "url": "https://wipr.pr/",
+    "revised_at": "2022-10-14T20:20:54"
+  },
+  {
+    "name": "Corporaci\u00f3n de Seguros Agr\u00edcolas (Dpto. Agricultura)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=198",
+    "url": "https://www.agricultura.pr/csa",
+    "revised_at": "2022-10-14T20:24:57"
+  },
+  {
+    "name": "Corporaci\u00f3n del Centro Bellas Artes (CBA)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=192",
+    "url": "https://www.cba.pr.gov",
+    "revised_at": "2022-10-14T20:27:40"
+  },
+  {
+    "name": "Corporaci\u00f3n del Centro Cardiovascular de Puerto Rico y el Caribe (CCCPRC)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=188",
+    "url": "http://www.cardiovascular.gobierno.pr/",
+    "revised_at": "2022-05-31T18:45:01"
+  },
+  {
+    "name": "Corporaci\u00f3n del Conservatorio de M\u00fasica (CCM)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=215",
+    "url": "http://www.cmpr.edu",
+    "revised_at": "2022-05-31T18:48:27"
+  },
+  {
+    "name": "Corporaci\u00f3n del Fondo del Seguro del Estado (CFSE)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=070",
+    "url": "http://web.fondopr.com/",
+    "revised_at": "2022-05-31T18:48:52"
+  },
+  {
+    "name": "Corporaci\u00f3n del Proyecto ENLACE del Ca\u00f1o Mart\u00edn Pe\u00f1a ",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=264",
+    "url": "http://martinpena.org/",
+    "revised_at": "2022-05-31T18:49:48"
+  },
+  {
+    "name": "Corporaci\u00f3n para las Artes Musicales (CAM)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=191",
+    "url": "http://www.cam.pr.gov/",
+    "revised_at": "2022-05-31T18:46:10"
+  },
+  {
+    "name": "Corporaci\u00f3n P\u00fablica para la Supervisi\u00f3n y Seguros de Cooperativas de PR (COSSEC)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=212",
+    "url": "http://www.cossec.com",
+    "revised_at": "2022-05-31T18:50:07"
+  },
+  {
+    "name": "Cuerpo de Bomberos de Puerto Rico",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=042",
+    "url": "http://www.bomberos.pr.gov",
+    "revised_at": "2022-05-31T19:29:11"
+  },
+  {
+    "name": "Cuerpo de Emergencias M\u00e9dicas (CEM)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=221",
+    "url": "http://www.cempr.pr.gov",
+    "revised_at": "2017-01-04T12:11:10"
+  },
+  {
+    "name": "Defensor\u00eda de las Personas con Impedimentos",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=151",
+    "url": "http://www.dpi.pr.gov",
+    "revised_at": "2022-05-31T18:51:10"
+  },
+  {
+    "name": "Departamento de  Justicia - Oficina del Procurador General",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=000",
+    "url": "http://www.justicia.pr.gov/",
+    "revised_at": "2022-05-31T19:09:02"
+  },
+  {
+    "name": "Departamento de Agricultura (DA)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=055",
+    "url": "http://www.agricultura.pr.gov",
+    "revised_at": "2022-05-31T18:51:50"
+  },
+  {
+    "name": "Departamento de Asuntos del Consumidor  (DACO)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=069",
+    "url": "http://www.daco.pr.gov",
+    "revised_at": "2019-09-05T13:53:20"
+  },
+  {
+    "name": "Departamento de Correcci\u00f3n y Rehabilitaci\u00f3n (DCR)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=137",
+    "url": "http://www.dcr.pr.gov",
+    "revised_at": "2022-05-31T18:52:31"
+  },
+  {
+    "name": "Departamento de Desarrollo Econ\u00f3mico y Comercio (DDEC)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=119",
+    "url": "http://www.ddec.pr.gov",
+    "revised_at": "2022-05-31T18:55:33"
+  },
+  {
+    "name": "Departamento de Educaci\u00f3n (DE)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=081",
+    "url": "http://www.de.gobierno.pr/",
+    "revised_at": "2022-05-31T19:05:07"
+  },
+  {
+    "name": "Departamento de Estado",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=023",
+    "url": "http://www.estado.pr.gov",
+    "revised_at": "2017-01-05T12:51:41"
+  },
+  {
+    "name": "Departamento de Hacienda (DH)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=024",
+    "url": "http://www.hacienda.pr.gov",
+    "revised_at": "2022-05-31T19:06:17"
+  },
+  {
+    "name": "Departamento de Justicia (DJ)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=038",
+    "url": "http://www.justicia.gobierno.pr",
+    "revised_at": "2022-05-31T19:07:50"
+  },
+  {
+    "name": "Departamento de la Familia (DF)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=122",
+    "url": "http://www.familia.pr.gov",
+    "revised_at": "2022-05-31T19:09:36"
+  },
+  {
+    "name": "Departamento de la Vivienda (DV)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=078",
+    "url": "http://www.vivienda.pr.gov",
+    "revised_at": "2022-05-31T19:10:17"
+  },
+  {
+    "name": "Departamento de Recreaci\u00f3n y Deportes (DRD)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=087",
+    "url": "http://www.drdpuertorico.com",
+    "revised_at": "2022-05-31T19:10:39"
+  },
+  {
+    "name": "Departamento de Recursos Naturales y Ambientales (DRNA)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=050",
+    "url": "http://www.drna.gobierno.pr",
+    "revised_at": "2022-05-31T19:11:06"
+  },
+  {
+    "name": "Departamento de Salud (DS)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=071",
+    "url": "http://www.salud.gov.pr/",
+    "revised_at": "2022-05-31T19:12:15"
+  },
+  {
+    "name": "Departamento de Transportaci\u00f3n y Obras P\u00fablicas (DTOP)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=049",
+    "url": "http://www.dtop.pr.gov",
+    "revised_at": "2022-05-31T19:13:56"
+  },
+  {
+    "name": "Departamento del Trabajo y Recursos Humanos (DTRH)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=067",
+    "url": "http://www.trabajo.pr.gov",
+    "revised_at": "2022-05-31T19:14:51"
+  },
+  {
+    "name": "Escuela de Artes Pl\u00e1sticas (EAP)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=109",
+    "url": "http://www.eap.edu",
+    "revised_at": "2022-05-31T19:18:59"
+  },
+  {
+    "name": "Fideicomiso Institucional de la Guardia Nacional de Puerto Rico (FIGNA)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=138",
+    "url": "http://www.figna.gobierno.pr/",
+    "revised_at": "2022-05-31T19:19:14"
+  },
+  {
+    "name": "Instituto de Ciencias Forenses (ICF)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=189",
+    "url": "http://www.icf.pr.gov/",
+    "revised_at": "2019-02-12T15:39:06"
+  },
+  {
+    "name": "Instituto de Cultura Puertorrique\u00f1a (ICP)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=082",
+    "url": "http://www.icp.pr.gov",
+    "revised_at": "2017-04-04T12:56:31"
+  },
+  {
+    "name": "Instituto de Estad\u00edsticas de Puerto Rico (IEPR)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=268",
+    "url": "https://estadisticas.pr",
+    "revised_at": "2022-05-31T19:21:12"
+  },
+  {
+    "name": "Junta de Calidad Ambiental (JCA)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=014",
+    "url": "http://www.jca.pr.gov",
+    "revised_at": "2017-01-04T12:11:16"
+  },
+  {
+    "name": "Junta de Libertad Bajo Palabra (JLBP)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=139",
+    "url": "http://www.jlbp.pr.gov",
+    "revised_at": "2022-05-31T19:21:35"
+  },
+  {
+    "name": "Junta de Planificaci\u00f3n (JP)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=018",
+    "url": "http://jp.pr.gov/",
+    "revised_at": "2022-05-31T19:21:52"
+  },
+  {
+    "name": "Junta de Relaciones del Trabajo (JRT)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=068",
+    "url": "http://www.jrt.pr.gov",
+    "revised_at": "2022-05-31T19:22:23"
+  },
+  {
+    "name": "Junta Reglamentadora de Telecomunicaciones (JRTPR)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=141",
+    "url": "http://www.jrtpr.gobierno.pr",
+    "revised_at": "2017-01-04T12:11:12"
+  },
+  {
+    "name": "Negociado de la Polic\u00eda de Puerto Rico",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=040",
+    "url": "https://policia.pr.gov/",
+    "revised_at": "2022-05-31T19:30:49"
+  },
+  {
+    "name": "Oficina de Administraci\u00f3n de los Tribunales (OAT)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=116",
+    "url": "https://poderjudicial.pr",
+    "revised_at": "2022-08-08T13:05:14"
+  },
+  {
+    "name": "Oficina de Administraci\u00f3n y Transformaci\u00f3n de los Recursos Humanos del Gobierno de Puerto Rico ( OATRH )",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=027",
+    "url": "http://www.oatrh.pr.gov/",
+    "revised_at": "2021-02-08T19:16:31"
+  },
+  {
+    "name": "Oficina de \u00c9tica Gubernamental (OEGPR)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=193",
+    "url": "http://eticapr.com/",
+    "revised_at": "2017-01-04T12:11:16"
+  },
+  {
+    "name": "Oficina de Exenci\u00f3n Contributiva Industrial (OECI)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=035",
+    "url": "http://www.oeci.gobierno.pr",
+    "revised_at": "2017-01-04T12:11:13"
+  },
+  {
+    "name": "Oficina de Gerencia de Permisos (OGPe)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=273",
+    "url": "https://ogpe.pr.gov",
+    "revised_at": "2018-09-27T13:06:11"
+  },
+  {
+    "name": "Oficina de Gerencia y Presupuesto (OGP)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=016",
+    "url": "http://www.ogp.pr.gov",
+    "revised_at": "2017-01-04T12:17:28"
+  },
+  {
+    "name": "Oficina de la Comisionada Residente en Washington",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=920",
+    "url": "https://gonzalez-colon.house.gov/",
+    "revised_at": "2017-11-06T18:03:19"
+  },
+  {
+    "name": "Oficina de la Procuradora de las Mujeres (OPM)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=096",
+    "url": "http://www.mujer.pr.gov",
+    "revised_at": "2019-02-15T19:33:46"
+  },
+  {
+    "name": "Oficina del Comisionado  de Asuntos Municipales (OCAM)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=036",
+    "url": "http://www.ocam.pr.gov",
+    "revised_at": "2017-01-04T12:11:16"
+  },
+  {
+    "name": "Oficina del Comisionado de Instituciones Financieras (OCIF)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=075",
+    "url": "http://www.ocif.gobierno.pr",
+    "revised_at": "2017-01-04T12:11:16"
+  },
+  {
+    "name": "Oficina del Comisionado de Seguros (OCS)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=022",
+    "url": "http://www.ocs.pr.gov/pages/default.aspx",
+    "revised_at": "2021-04-23T19:28:34"
+  },
+  {
+    "name": "Oficina del Contralor de Puerto Rico (OCPR)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=008",
+    "url": "http://www.ocpr.gov.pr",
+    "revised_at": "2017-01-04T12:11:16"
+  },
+  {
+    "name": "Oficina del Contralor Electoral (OCE)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=281",
+    "url": "http://oce.pr.gov",
+    "revised_at": "2019-06-11T12:54:15"
+  },
+  {
+    "name": "Oficina del Gobernador (La Fortaleza)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=015",
+    "url": "http://www.fortaleza.pr.gov",
+    "revised_at": "2017-01-04T12:11:12"
+  },
+  {
+    "name": "Oficina del Procurador de las Personas de Edad Avanzada (OPPEA)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=152",
+    "url": "http://www.oppea.pr.gov/",
+    "revised_at": "2017-01-04T12:11:12"
+  },
+  {
+    "name": "Oficina del Procurador del Ciudadano (OMBUDSMAN)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=060",
+    "url": "http://www.ombudsman.pr.gov",
+    "revised_at": "2020-01-30T13:44:57"
+  },
+  {
+    "name": "Oficina del Procurador del Paciente (OPP)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=231",
+    "url": "http://www.opp.pr.gov",
+    "revised_at": "2017-01-04T12:11:12"
+  },
+  {
+    "name": "Oficina del Procurador del Veterano (OPV)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=120",
+    "url": "http://www.opv.pr.gov",
+    "revised_at": "2017-07-13T16:24:57"
+  },
+  {
+    "name": "Oficina Estatal de Conservaci\u00f3n Hist\u00f3rica (OECH)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=155",
+    "url": "http://www.oech.pr.gov",
+    "revised_at": "2017-01-04T12:11:12"
+  },
+  {
+    "name": "Oficina Estatal de Pol\u00edtica P\u00fablica Energ\u00e9tica",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=132",
+    "url": "http://www.oeppe.pr.gov",
+    "revised_at": "2017-07-27T12:43:43"
+  },
+  {
+    "name": "Panel sobre el Fiscal Especial Independiente (FEI)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=200",
+    "url": "http://www.pfei.pr.gov",
+    "revised_at": "2019-02-11T17:58:26"
+  },
+  {
+    "name": "Programa de Servicios con Antelaci\u00f3n al Juicio  (PSAJ)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=217",
+    "url": "http://www.osaj.pr.gov",
+    "revised_at": "2017-01-04T12:11:16"
+  },
+  {
+    "name": "Puerto Rico Innovation & Technology Service",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=271",
+    "url": "https://www.prits.pr.gov/",
+    "revised_at": "2021-07-13T18:43:34"
+  },
+  {
+    "name": "Sistema de Retiro Para Maestros (SRM)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=091",
+    "url": "http://www.srm.pr.gov",
+    "revised_at": "2017-01-04T12:11:10"
+  },
+  {
+    "name": "Sistemas de Informaci\u00f3n de Justicia Criminal (SIJC)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=801",
+    "url": "http://www.sijc.gobierno.pr",
+    "revised_at": "2017-01-04T12:11:14"
+  },
+  {
+    "name": "Tribunal Supremo de Puerto Rico",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=911",
+    "url": "http://www.ramajudicial.pr/sistema/supremo/index.htm",
+    "revised_at": "2017-01-04T12:11:14"
+  },
+  {
+    "name": "Universidad de Puerto Rico  (UPR)",
+    "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=176",
+    "url": "http://www.upr.edu",
+    "revised_at": "2017-01-04T12:11:12"
+  }
+]

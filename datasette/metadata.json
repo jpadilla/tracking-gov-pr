@@ -1,0 +1,35 @@
+{
+  "title": "Datos sobre gov.pr",
+  "description_html": "<p>Record de datos de sitios web y domains de agencias, Municipios y otras entidades del Gobierno de Puerto Rico.</p><p>Esto es un proyecto de código abierto y no está afiliado al Gobierno de Puerto Rico.</p>",
+  "about_url": "https://github.com/jpadilla/tracking-gov-pr",
+  "databases": {
+    "data": {
+      "queries": {
+        "last_known_status": {
+          "title": "Status más reciente sobre websites listados en el Directorio de Agencias y Municipios",
+          "sql": "select name, request_url, response_url, response_status_code, exception from  website_checks where variation = 0 and created_at = (select max(created_at) from website_checks) order by name"
+        },
+        "last_known_exceptions": {
+          "title": "Errores más reciente de websites listados en el Directorio de Agencias y Municipios",
+          "sql": "select name, request_url, response_url, response_status_code, exception from  website_checks where variation = 0 and exception is not null and created_at = (select max(created_at) from website_checks) order by name"
+        }
+      },
+      "tables": {
+        "discoveries": {
+          "description": "Domain names descubiertos via DNS Enumeration."
+        },
+        "agencies": {
+          "description": "Información extraída del Directorio de Agencias.",
+          "source_url": "https://pr.gov/Directorios/Pages/DirectoriodeAgencias.aspx"
+        },
+        "towns": {
+          "description": "Información extraída del Directorio de Municipios.",
+          "source_url": "https://pr.gov/Directorios/Pages/DirectoriodeMunicipios.aspx"
+        },
+        "website_checks": {
+          "description": "Record de status sobre websites listados en el Directorio de Agencias y Municipios."
+        }
+      }
+    }
+  }
+}
