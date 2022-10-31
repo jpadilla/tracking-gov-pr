@@ -644,26 +644,26 @@
   {
     "name": "Oficina del Procurador del Veterano (OPV)",
     "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=120",
-    "url": "http://www.opv.pr.gov",
-    "revised_at": "2017-07-13T16:24:57"
+    "url": "https://opv.pr.gov",
+    "revised_at": "2022-10-28T12:15:02"
   },
   {
     "name": "Oficina Estatal de Conservaci\u00f3n Hist\u00f3rica (OECH)",
     "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=155",
-    "url": "http://www.oech.pr.gov",
-    "revised_at": "2017-01-04T12:11:12"
+    "url": "https://oech.pr.gov/",
+    "revised_at": "2022-10-28T12:14:33"
   },
   {
     "name": "Oficina Estatal de Pol\u00edtica P\u00fablica Energ\u00e9tica",
     "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=132",
-    "url": "http://www.oeppe.pr.gov",
-    "revised_at": "2017-07-27T12:43:43"
+    "url": "https://ddec.pr.gov/programa-de-politica-publica-energetica",
+    "revised_at": "2022-10-28T12:29:01"
   },
   {
     "name": "Panel sobre el Fiscal Especial Independiente (FEI)",
     "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=200",
-    "url": "http://www.pfei.pr.gov",
-    "revised_at": "2019-02-11T17:58:26"
+    "url": "http://panelfei.com/",
+    "revised_at": "2022-10-28T12:35:38"
   },
   {
     "name": "Programa de Servicios con Antelaci\u00f3n al Juicio  (PSAJ)",
@@ -675,30 +675,30 @@
     "name": "Puerto Rico Innovation & Technology Service",
     "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=271",
     "url": "https://www.prits.pr.gov/",
-    "revised_at": "2021-07-13T18:43:34"
+    "revised_at": "2022-10-28T13:09:29"
   },
   {
     "name": "Sistema de Retiro Para Maestros (SRM)",
     "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=091",
-    "url": "http://www.srm.pr.gov",
-    "revised_at": "2017-01-04T12:11:10"
+    "url": "https://www.srm.pr.gov/",
+    "revised_at": "2022-10-28T13:26:21"
   },
   {
     "name": "Sistemas de Informaci\u00f3n de Justicia Criminal (SIJC)",
     "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=801",
-    "url": "http://www.sijc.gobierno.pr",
-    "revised_at": "2017-01-04T12:11:14"
+    "url": "http://www.justicia.pr.gov/secretarias-y-oficinas/sistema-de-informacion-de-justicia-criminal-sijc/",
+    "revised_at": "2022-10-28T13:28:57"
   },
   {
     "name": "Tribunal Supremo de Puerto Rico",
     "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=911",
-    "url": "http://www.ramajudicial.pr/sistema/supremo/index.htm",
-    "revised_at": "2017-01-04T12:11:14"
+    "url": "https://poderjudicial.pr/index.php/tribunal-supremo/#",
+    "revised_at": "2022-10-28T13:34:37"
   },
   {
     "name": "Universidad de Puerto Rico  (UPR)",
     "directory_url": "https://pr.gov/Directorios/Pages/InfoAgencia.aspx?PRIFA=176",
-    "url": "http://www.upr.edu",
-    "revised_at": "2017-01-04T12:11:12"
+    "url": "https://www.upr.edu/",
+    "revised_at": "2022-10-28T13:38:22"
   }
 ]
