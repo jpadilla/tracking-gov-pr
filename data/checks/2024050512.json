@@ -276,14 +276,18 @@
     "variation": false,
     "request_url": "https://www.terrenos.pr.gov",
     "response_url": "https://www.terrenos.pr.gov/",
-    "exception": "ReadTimeout"
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
   },
   {
     "name": "Administraci\u00f3n de Terrenos (Dpto. Desarrollo Econ\u00f3mico)",
     "variation": true,
     "request_url": "http://www.terrenos.pr.gov",
     "response_url": "https://www.terrenos.pr.gov//",
-    "exception": "ReadTimeout"
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
   },
   {
     "name": "Administraci\u00f3n de Terrenos (Dpto. Desarrollo Econ\u00f3mico)",
@@ -420,10 +424,8 @@
     "name": "Agencia Estatal para el Manejo de Emergencias y Administraci\u00f3n de Desastres (AEMEAD)",
     "variation": true,
     "request_url": "http://manejodeemergencias.pr.gov/",
-    "response_url": "https://manejodeemergencias.pr.gov/",
-    "response_redirects": 1,
-    "response_status_code": 200,
-    "exception": null
+    "response_url": "http://manejodeemergencias.pr.gov/",
+    "exception": "ReadTimeout"
   },
   {
     "name": "Autoridad de Acueductos y Alcantarillados (AAA) ",
@@ -1746,14 +1748,16 @@
     "variation": true,
     "request_url": "http://daco.pr.gov",
     "response_url": "http://daco.pr.gov/",
-    "exception": "ConnectTimeout"
+    "response_redirects": 0,
+    "response_status_code": 404,
+    "exception": null
   },
   {
     "name": "Departamento de Asuntos del Consumidor  (DACO)",
     "variation": true,
     "request_url": "https://daco.pr.gov",
     "response_url": "https://daco.pr.gov/",
-    "exception": "ConnectTimeout"
+    "exception": "SSLError"
   },
   {
     "name": "Departamento de Correcci\u00f3n y Rehabilitaci\u00f3n (DCR)",
@@ -1778,9 +1782,7 @@
     "variation": false,
     "request_url": "https://de.pr.gov",
     "response_url": "https://de.pr.gov/",
-    "response_redirects": 0,
-    "response_status_code": 200,
-    "exception": null
+    "exception": "ReadTimeout"
   },
   {
     "name": "Departamento de Desarrollo Econ\u00f3mico y Comercio (DDEC)",
@@ -2452,10 +2454,8 @@
     "name": "Oficina de Administraci\u00f3n de los Tribunales (OAT)",
     "variation": true,
     "request_url": "http://poderjudicial.pr/index.php/oficina-administracion-de-los-tribunales/",
-    "response_url": "https://poderjudicial.pr/oficina-administracion-de-los-tribunales/",
-    "response_redirects": 2,
-    "response_status_code": 200,
-    "exception": null
+    "response_url": "https://poderjudicial.pr/index.php/oficina-administracion-de-los-tribunales/",
+    "exception": "ReadTimeout"
   },
   {
     "name": "Oficina de Administraci\u00f3n y Transformaci\u00f3n de los Recursos Humanos del Gobierno de Puerto Rico ( OATRH )",
@@ -2949,7 +2949,7 @@
     "request_url": "http://www.justicia.pr.gov/secretarias-y-oficinas/sistema-de-informacion-de-justicia-criminal-sijc/",
     "response_url": "http://www.justicia.pr.gov/secretarias-y-oficinas/sistema-de-informacion-de-justicia-criminal-sijc/",
     "response_redirects": 0,
-    "response_status_code": 500,
+    "response_status_code": 200,
     "exception": null
   },
   {
@@ -2979,10 +2979,8 @@
     "name": "Tribunal Supremo de Puerto Rico",
     "variation": false,
     "request_url": "https://poderjudicial.pr/index.php/tribunal-supremo/",
-    "response_url": "https://poderjudicial.pr/tribunal-supremo/",
-    "response_redirects": 1,
-    "response_status_code": 200,
-    "exception": null
+    "response_url": "https://poderjudicial.pr/index.php/tribunal-supremo/",
+    "exception": "ReadTimeout"
   },
   {
     "name": "Tribunal Supremo de Puerto Rico",
@@ -3081,7 +3079,7 @@
     "request_url": "http://www.municipiodebayamon.com/",
     "response_url": "https://www.municipiodebayamon.com/",
     "response_redirects": 1,
-    "response_status_code": 200,
+    "response_status_code": 403,
     "exception": null
   },
   {
@@ -3090,32 +3088,32 @@
     "request_url": "https://www.municipiodebayamon.com/",
     "response_url": "https://www.municipiodebayamon.com/",
     "response_redirects": 0,
-    "response_status_code": 200,
+    "response_status_code": 403,
     "exception": null
   },
   {
     "name": "Bayam\u00f3n",
     "variation": true,
     "request_url": "https://municipiodebayamon.com/",
-    "response_url": "https://www.municipiodebayamon.com/",
-    "response_redirects": 1,
-    "response_status_code": 200,
+    "response_url": "https://municipiodebayamon.com/",
+    "response_redirects": 0,
+    "response_status_code": 403,
     "exception": null
   },
   {
     "name": "Bayam\u00f3n",
     "variation": true,
     "request_url": "http://municipiodebayamon.com/",
-    "response_url": "https://www.municipiodebayamon.com/",
-    "response_redirects": 2,
-    "response_status_code": 200,
+    "response_url": "https://municipiodebayamon.com/",
+    "response_redirects": 1,
+    "response_status_code": 403,
     "exception": null
   },
   {
     "name": "Cabo Rojo",
     "variation": false,
     "request_url": "http://www.ciudadcaborojo.net",
-    "response_url": "http://ww25.ciudadcaborojo.net/?subid1=20240505-2227-24fb-af95-3d2d7331c9fa",
+    "response_url": "http://ww25.ciudadcaborojo.net/?subid1=20240505-2239-4344-afaa-251a22bf440a",
     "response_redirects": 1,
     "response_status_code": 200,
     "exception": null
@@ -3124,7 +3122,7 @@
     "name": "Cabo Rojo",
     "variation": true,
     "request_url": "https://www.ciudadcaborojo.net",
-    "response_url": "http://ww25.ciudadcaborojo.net/?subid1=20240505-2227-2460-b0aa-0e00d930eda0",
+    "response_url": "http://ww25.ciudadcaborojo.net/?subid1=20240505-2239-44e4-b249-ee7ad2e68da1",
     "response_redirects": 1,
     "response_status_code": 200,
     "exception": null
@@ -3133,7 +3131,7 @@
     "name": "Cabo Rojo",
     "variation": true,
     "request_url": "https://ciudadcaborojo.net",
-    "response_url": "http://ww25.ciudadcaborojo.net/?subid1=20240505-2227-2584-847d-1f309ae4cb56",
+    "response_url": "http://ww25.ciudadcaborojo.net/?subid1=20240505-2239-4440-ae8a-3caa0e380160",
     "response_redirects": 1,
     "response_status_code": 200,
     "exception": null
@@ -3142,7 +3140,7 @@
     "name": "Cabo Rojo",
     "variation": true,
     "request_url": "http://ciudadcaborojo.net",
-    "response_url": "http://ww25.ciudadcaborojo.net/?subid1=20240505-2227-250f-aa3a-83f895299c72",
+    "response_url": "http://ww25.ciudadcaborojo.net/?subid1=20240505-2239-458b-b067-82f8c042a25b",
     "response_redirects": 1,
     "response_status_code": 200,
     "exception": null
@@ -3609,7 +3607,7 @@
     "name": "Ponce",
     "variation": false,
     "request_url": "http://www.ponceweb.org",
-    "response_url": "http://ww16.ponceweb.org/?sub1=20240505-2228-1993-8ef4-4b217f5136b2",
+    "response_url": "http://ww16.ponceweb.org/?sub1=20240505-2240-32e5-b939-82dcf50ad600",
     "response_redirects": 1,
     "response_status_code": 403,
     "exception": null
@@ -3618,7 +3616,7 @@
     "name": "Ponce",
     "variation": true,
     "request_url": "https://www.ponceweb.org",
-    "response_url": "http://ww16.ponceweb.org/?sub1=20240505-2228-2047-ab75-e77acd0dae54",
+    "response_url": "http://ww16.ponceweb.org/?sub1=20240505-2240-3245-b7b2-fac1211ebf75",
     "response_redirects": 1,
     "response_status_code": 403,
     "exception": null
@@ -3627,7 +3625,7 @@
     "name": "Ponce",
     "variation": true,
     "request_url": "https://ponceweb.org",
-    "response_url": "http://ww16.ponceweb.org/?sub1=20240505-2228-2122-a466-accf0e927c8e",
+    "response_url": "http://ww16.ponceweb.org/?sub1=20240505-2240-33e4-bd6b-740f3ee22c75",
     "response_redirects": 1,
     "response_status_code": 403,
     "exception": null
@@ -3636,7 +3634,7 @@
     "name": "Ponce",
     "variation": true,
     "request_url": "http://ponceweb.org",
-    "response_url": "http://ww16.ponceweb.org/?sub1=20240505-2228-218f-8b26-a533ab72bfad",
+    "response_url": "http://ww16.ponceweb.org/?sub1=20240505-2240-349a-a78f-1456cd20e6cb",
     "response_redirects": 1,
     "response_status_code": 403,
     "exception": null
