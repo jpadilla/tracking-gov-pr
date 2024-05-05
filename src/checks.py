@@ -65,9 +65,9 @@ def check_websites(websites):
         except requests.exceptions.RequestException as exc:
             response.update(
                 {
-                    "response_url": exc.response.url
-                    if exc.response
-                    else exc.request.url,
+                    "response_url": (
+                        exc.response.url if exc.response else exc.request.url
+                    ),
                     "exception": type(exc).__name__,
                 }
             )

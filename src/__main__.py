@@ -73,12 +73,18 @@ def main():
 
     if action == "scrape":
         agencies = scrape_agencies()
-        with open(AGENCIES_DATA_FILE, "w") as f:
-            json.dump(agencies, f, cls=JSONEncoder, indent=2)
+        if len(agencies) == 0:
+            print("No agencies found")
+        else:
+            with open(AGENCIES_DATA_FILE, "w") as f:
+                json.dump(agencies, f, cls=JSONEncoder, indent=2)
 
         towns = scrape_towns()
-        with open(TOWNS_DATA_FILE, "w") as f:
-            json.dump(towns, f, cls=JSONEncoder, indent=2)
+        if len(towns) == 0:
+            print("No towns found")
+        else:
+            with open(TOWNS_DATA_FILE, "w") as f:
+                json.dump(towns, f, cls=JSONEncoder, indent=2)
 
     elif action == "check-websites":
         with open(AGENCIES_DATA_FILE) as f:
