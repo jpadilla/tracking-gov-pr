@@ -1,7 +1,7 @@
 .DEFAULT_GOAL := help
 
 install-dependencies:
-	pip install poetry==1.2.0
+	pip install poetry==1.8.2
 
 install:
 	poetry install
