@@ -1,0 +1,3800 @@
+[
+  {
+    "name": "Administraci\u00f3n de Asuntos Federales de Puerto Rico (PRFAA)",
+    "variation": false,
+    "request_url": "https://prfaa.pr.gov",
+    "response_url": "https://www.prfaa.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Asuntos Federales de Puerto Rico (PRFAA)",
+    "variation": true,
+    "request_url": "http://prfaa.pr.gov",
+    "response_url": "https://www.prfaa.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Compensaciones por Accidentes de Automoviles (ACAA)",
+    "variation": false,
+    "request_url": "http://www.acaa.pr.gov/",
+    "response_url": "https://www.acaa.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Compensaciones por Accidentes de Automoviles (ACAA)",
+    "variation": true,
+    "request_url": "https://www.acaa.pr.gov/",
+    "response_url": "https://www.acaa.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Compensaciones por Accidentes de Automoviles (ACAA)",
+    "variation": true,
+    "request_url": "https://acaa.pr.gov/",
+    "response_url": "https://www.acaa.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Compensaciones por Accidentes de Automoviles (ACAA)",
+    "variation": true,
+    "request_url": "http://acaa.pr.gov/",
+    "response_url": "https://www.acaa.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Desarrollo Socioecon\u00f3mico de la Familia (Dpto. Familia)",
+    "variation": false,
+    "request_url": "https://servicios.adsef.pr.gov",
+    "response_url": "https://servicios.adsef.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Administraci\u00f3n de Desarrollo Socioecon\u00f3mico de la Familia (Dpto. Familia)",
+    "variation": true,
+    "request_url": "http://servicios.adsef.pr.gov",
+    "response_url": "http://servicios.adsef.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Administraci\u00f3n de Familias y Ni\u00f1os  (Dpto. Familia)",
+    "variation": false,
+    "request_url": "https://adfan.pr.gov",
+    "response_url": "https://adfan.pr.gov/Pages/default.aspx",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Familias y Ni\u00f1os  (Dpto. Familia)",
+    "variation": true,
+    "request_url": "http://adfan.pr.gov",
+    "response_url": "https://adfan.pr.gov/Pages/default.aspx",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Instituciones Juveniles (Dpto. Correcci\u00f3n)",
+    "variation": false,
+    "request_url": "http://dcr.pr.gov/",
+    "response_url": "https://dcr.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Instituciones Juveniles (Dpto. Correcci\u00f3n)",
+    "variation": true,
+    "request_url": "https://dcr.pr.gov/",
+    "response_url": "https://dcr.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de los Sistemas de Retiro de los Empleados del Gobierno y la Judicatura (ASR)",
+    "variation": false,
+    "request_url": "http://www.retiro.pr.gov",
+    "response_url": "http://www.retiro.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Administraci\u00f3n de los Sistemas de Retiro de los Empleados del Gobierno y la Judicatura (ASR)",
+    "variation": true,
+    "request_url": "https://www.retiro.pr.gov",
+    "response_url": "https://www.retiro.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Administraci\u00f3n de los Sistemas de Retiro de los Empleados del Gobierno y la Judicatura (ASR)",
+    "variation": true,
+    "request_url": "https://retiro.pr.gov",
+    "response_url": "https://retiro.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Administraci\u00f3n de los Sistemas de Retiro de los Empleados del Gobierno y la Judicatura (ASR)",
+    "variation": true,
+    "request_url": "http://retiro.pr.gov",
+    "response_url": "http://retiro.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Administraci\u00f3n de Rehabilitaci\u00f3n Vocacional (ARV)",
+    "variation": false,
+    "request_url": "http://www.arv.pr.gov",
+    "response_url": "https://www.arv.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Rehabilitaci\u00f3n Vocacional (ARV)",
+    "variation": true,
+    "request_url": "https://www.arv.pr.gov",
+    "response_url": "https://www.arv.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Rehabilitaci\u00f3n Vocacional (ARV)",
+    "variation": true,
+    "request_url": "https://arv.pr.gov",
+    "response_url": "https://www.arv.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Rehabilitaci\u00f3n Vocacional (ARV)",
+    "variation": true,
+    "request_url": "http://arv.pr.gov",
+    "response_url": "https://www.arv.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Seguros de Salud (ASES)",
+    "variation": false,
+    "request_url": "https://www.asespr.org",
+    "response_url": "https://www.asespr.org/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Administraci\u00f3n de Seguros de Salud (ASES)",
+    "variation": true,
+    "request_url": "http://www.asespr.org",
+    "response_url": "http://www.asespr.org/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Administraci\u00f3n de Seguros de Salud (ASES)",
+    "variation": true,
+    "request_url": "http://asespr.org",
+    "response_url": "https://www.asespr.org/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Administraci\u00f3n de Seguros de Salud (ASES)",
+    "variation": true,
+    "request_url": "https://asespr.org",
+    "response_url": "https://www.asespr.org/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Administraci\u00f3n de Servicios de Salud Mental y Contra la Adicci\u00f3n (Dpto. Salud)",
+    "variation": false,
+    "request_url": "https://assmca.pr.gov",
+    "response_url": "https://www.assmca.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Servicios de Salud Mental y Contra la Adicci\u00f3n (Dpto. Salud)",
+    "variation": true,
+    "request_url": "http://assmca.pr.gov",
+    "response_url": "https://www.assmca.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Servicios Generales (ASG)",
+    "variation": false,
+    "request_url": "https://asg.pr.gov",
+    "response_url": "https://asg.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Servicios Generales (ASG)",
+    "variation": true,
+    "request_url": "http://asg.pr.gov",
+    "response_url": "https://asg.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Servicios M\u00e9dicos (Dpto. Salud)",
+    "variation": false,
+    "request_url": "https://www.asem.pr.gov/",
+    "response_url": "https://www.asem.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Servicios M\u00e9dicos (Dpto. Salud)",
+    "variation": true,
+    "request_url": "http://www.asem.pr.gov/",
+    "response_url": "http://www.asem.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Administraci\u00f3n de Servicios M\u00e9dicos (Dpto. Salud)",
+    "variation": true,
+    "request_url": "http://asem.pr.gov/",
+    "response_url": "http://asem.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Administraci\u00f3n de Servicios M\u00e9dicos (Dpto. Salud)",
+    "variation": true,
+    "request_url": "https://asem.pr.gov/",
+    "response_url": "https://asem.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Administraci\u00f3n de Terrenos (Dpto. Desarrollo Econ\u00f3mico)",
+    "variation": false,
+    "request_url": "https://www.terrenos.pr.gov",
+    "response_url": "https://www.terrenos.pr.gov/",
+    "exception": "ReadTimeout"
+  },
+  {
+    "name": "Administraci\u00f3n de Terrenos (Dpto. Desarrollo Econ\u00f3mico)",
+    "variation": true,
+    "request_url": "http://www.terrenos.pr.gov",
+    "response_url": "https://www.terrenos.pr.gov//",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Terrenos (Dpto. Desarrollo Econ\u00f3mico)",
+    "variation": true,
+    "request_url": "http://terrenos.pr.gov",
+    "response_url": "http://terrenos.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 404,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Terrenos (Dpto. Desarrollo Econ\u00f3mico)",
+    "variation": true,
+    "request_url": "https://terrenos.pr.gov",
+    "response_url": "https://terrenos.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 500,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Vivienda P\u00fablica (Dpto. Vivienda)",
+    "variation": false,
+    "request_url": "https://www.avp.pr.gov",
+    "response_url": "https://www.avp.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Vivienda P\u00fablica (Dpto. Vivienda)",
+    "variation": true,
+    "request_url": "http://www.avp.pr.gov",
+    "response_url": "https://www.avp.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n de Vivienda P\u00fablica (Dpto. Vivienda)",
+    "variation": true,
+    "request_url": "http://avp.pr.gov",
+    "response_url": "http://avp.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Administraci\u00f3n de Vivienda P\u00fablica (Dpto. Vivienda)",
+    "variation": true,
+    "request_url": "https://avp.pr.gov",
+    "response_url": "https://avp.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Administraci\u00f3n para el Cuidado y Desarrollo Integral de la Ni\u00f1ez (Dpto. Familia)",
+    "variation": false,
+    "request_url": "https://acuden.pr.gov/",
+    "response_url": "https://www.acuden.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n para el Cuidado y Desarrollo Integral de la Ni\u00f1ez (Dpto. Familia)",
+    "variation": true,
+    "request_url": "http://acuden.pr.gov/",
+    "response_url": "https://www.acuden.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n para el Desarrollo de Empresas Agropecuarias (Dpto. Agricultura)",
+    "variation": false,
+    "request_url": "https://www.agricultura.pr/",
+    "response_url": "https://www.agricultura.pr/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n para el Desarrollo de Empresas Agropecuarias (Dpto. Agricultura)",
+    "variation": true,
+    "request_url": "http://www.agricultura.pr/",
+    "response_url": "https://www.agricultura.pr/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n para el Desarrollo de Empresas Agropecuarias (Dpto. Agricultura)",
+    "variation": true,
+    "request_url": "http://agricultura.pr/",
+    "response_url": "https://www.agricultura.pr/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n para el Desarrollo de Empresas Agropecuarias (Dpto. Agricultura)",
+    "variation": true,
+    "request_url": "https://agricultura.pr/",
+    "response_url": "https://www.agricultura.pr/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n para el Sustento de Menores (Dpto.Familia)",
+    "variation": false,
+    "request_url": "https://asume.pr.gov/",
+    "response_url": "https://asume.pr.gov/Pages/default.aspx",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Administraci\u00f3n para el Sustento de Menores (Dpto.Familia)",
+    "variation": true,
+    "request_url": "http://asume.pr.gov/",
+    "response_url": "https://asume.pr.gov/Pages/default.aspx",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Agencia Estatal para el Manejo de Emergencias y Administraci\u00f3n de Desastres (AEMEAD)",
+    "variation": false,
+    "request_url": "https://manejodeemergencias.pr.gov/",
+    "response_url": "https://manejodeemergencias.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Agencia Estatal para el Manejo de Emergencias y Administraci\u00f3n de Desastres (AEMEAD)",
+    "variation": true,
+    "request_url": "http://manejodeemergencias.pr.gov/",
+    "response_url": "https://manejodeemergencias.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Acueductos y Alcantarillados (AAA) ",
+    "variation": false,
+    "request_url": "https://www.acueductospr.com/",
+    "response_url": "https://www.acueductos.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Acueductos y Alcantarillados (AAA) ",
+    "variation": true,
+    "request_url": "http://www.acueductospr.com/",
+    "response_url": "https://www.acueductos.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Acueductos y Alcantarillados (AAA) ",
+    "variation": true,
+    "request_url": "http://acueductospr.com/",
+    "response_url": "https://www.acueductos.pr.gov/",
+    "response_redirects": 3,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Acueductos y Alcantarillados (AAA) ",
+    "variation": true,
+    "request_url": "https://acueductospr.com/",
+    "response_url": "https://www.acueductos.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Carreteras y Transportaci\u00f3n (Dpto.  DTOP)",
+    "variation": false,
+    "request_url": "https://act.dtop.pr.gov/",
+    "response_url": "https://act.dtop.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Carreteras y Transportaci\u00f3n (Dpto.  DTOP)",
+    "variation": true,
+    "request_url": "http://act.dtop.pr.gov/",
+    "response_url": "https://act.dtop.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Deperdicios S\u00f3lidos (ADS)",
+    "variation": false,
+    "request_url": "https://www.drna.pr.gov/otrora-ads/",
+    "response_url": "https://www.drna.pr.gov/otrora-ads/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Deperdicios S\u00f3lidos (ADS)",
+    "variation": true,
+    "request_url": "http://www.drna.pr.gov/otrora-ads/",
+    "response_url": "https://www.drna.pr.gov/otrora-ads/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Deperdicios S\u00f3lidos (ADS)",
+    "variation": true,
+    "request_url": "http://drna.pr.gov/otrora-ads/",
+    "response_url": "https://www.drna.pr.gov/otrora-ads/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Deperdicios S\u00f3lidos (ADS)",
+    "variation": true,
+    "request_url": "https://drna.pr.gov/otrora-ads/",
+    "response_url": "https://www.drna.pr.gov/otrora-ads/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Edificios P\u00fablicos (AEP)",
+    "variation": false,
+    "request_url": "http://www.aep.pr.gov/",
+    "response_url": "http://www.aep.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Edificios P\u00fablicos (AEP)",
+    "variation": true,
+    "request_url": "https://www.aep.pr.gov/",
+    "response_url": "https://www.aep.pr.gov/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Autoridad de Edificios P\u00fablicos (AEP)",
+    "variation": true,
+    "request_url": "https://aep.pr.gov/",
+    "response_url": "https://aep.pr.gov/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Autoridad de Edificios P\u00fablicos (AEP)",
+    "variation": true,
+    "request_url": "http://aep.pr.gov/",
+    "response_url": "http://aep.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Energ\u00eda El\u00e9ctrica (AEE)",
+    "variation": false,
+    "request_url": "https://aeepr.com/",
+    "response_url": "https://aeepr.com/",
+    "response_redirects": 0,
+    "response_status_code": 403,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Energ\u00eda El\u00e9ctrica (AEE)",
+    "variation": true,
+    "request_url": "http://aeepr.com/",
+    "response_url": "http://aeepr.com/",
+    "response_redirects": 0,
+    "response_status_code": 404,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de los Puertos (AP)",
+    "variation": false,
+    "request_url": "https://www.prpa.pr.gov/",
+    "response_url": "https://www.prpa.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de los Puertos (AP)",
+    "variation": true,
+    "request_url": "http://www.prpa.pr.gov/",
+    "response_url": "https://www.prpa.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de los Puertos (AP)",
+    "variation": true,
+    "request_url": "http://prpa.pr.gov/",
+    "response_url": "https://www.prpa.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de los Puertos (AP)",
+    "variation": true,
+    "request_url": "https://prpa.pr.gov/",
+    "response_url": "https://www.prpa.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Tierras de Puerto Rico (Dpto. Agricultura)",
+    "variation": false,
+    "request_url": "https://www.agricultura.pr/autoridad-tierras",
+    "response_url": "https://www.agricultura.pr/autoridad-tierras",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Tierras de Puerto Rico (Dpto. Agricultura)",
+    "variation": true,
+    "request_url": "http://www.agricultura.pr/autoridad-tierras",
+    "response_url": "https://www.agricultura.pr/autoridad-tierras",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Tierras de Puerto Rico (Dpto. Agricultura)",
+    "variation": true,
+    "request_url": "http://agricultura.pr/autoridad-tierras",
+    "response_url": "https://www.agricultura.pr/autoridad-tierras",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Tierras de Puerto Rico (Dpto. Agricultura)",
+    "variation": true,
+    "request_url": "https://agricultura.pr/autoridad-tierras",
+    "response_url": "https://www.agricultura.pr/autoridad-tierras",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Transporte Mar\u00edtimo (Dpto. DTOP)",
+    "variation": false,
+    "request_url": "https://www.puertoricoferry.com/",
+    "response_url": "https://www.puertoricoferry.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Transporte Mar\u00edtimo (Dpto. DTOP)",
+    "variation": true,
+    "request_url": "http://www.puertoricoferry.com/",
+    "response_url": "https://www.puertoricoferry.com/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Transporte Mar\u00edtimo (Dpto. DTOP)",
+    "variation": true,
+    "request_url": "http://puertoricoferry.com/",
+    "response_url": "https://www.puertoricoferry.com/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad de Transporte Mar\u00edtimo (Dpto. DTOP)",
+    "variation": true,
+    "request_url": "https://puertoricoferry.com/",
+    "response_url": "https://www.puertoricoferry.com/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad del Distrito del Centro de Convenciones de Puerto Rico",
+    "variation": false,
+    "request_url": "http://www.prcda.com",
+    "response_url": "https://prcda.com/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad del Distrito del Centro de Convenciones de Puerto Rico",
+    "variation": true,
+    "request_url": "https://www.prcda.com",
+    "response_url": "https://prcda.com/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad del Distrito del Centro de Convenciones de Puerto Rico",
+    "variation": true,
+    "request_url": "https://prcda.com",
+    "response_url": "https://prcda.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad del Distrito del Centro de Convenciones de Puerto Rico",
+    "variation": true,
+    "request_url": "http://prcda.com",
+    "response_url": "https://prcda.com/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad del Puerto de Ponce",
+    "variation": false,
+    "request_url": "https://www.ppa.pr.gov/",
+    "response_url": "https://www.ppa.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad del Puerto de Ponce",
+    "variation": true,
+    "request_url": "http://www.ppa.pr.gov/",
+    "response_url": "https://www.ppa.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad del Puerto de Ponce",
+    "variation": true,
+    "request_url": "http://ppa.pr.gov/",
+    "response_url": "https://www.ppa.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad del Puerto de Ponce",
+    "variation": true,
+    "request_url": "https://ppa.pr.gov/",
+    "response_url": "https://www.ppa.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad Metropolitana de Autobuses (Dpto.DTOP)",
+    "variation": false,
+    "request_url": "https://www.dtop.pr.gov/ama",
+    "response_url": "https://www.dtop.pr.gov/ama",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad Metropolitana de Autobuses (Dpto.DTOP)",
+    "variation": true,
+    "request_url": "http://www.dtop.pr.gov/ama",
+    "response_url": "https://www.dtop.pr.gov/ama",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad Metropolitana de Autobuses (Dpto.DTOP)",
+    "variation": true,
+    "request_url": "http://dtop.pr.gov/ama",
+    "response_url": "https://www.dtop.pr.gov",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad Metropolitana de Autobuses (Dpto.DTOP)",
+    "variation": true,
+    "request_url": "https://dtop.pr.gov/ama",
+    "response_url": "https://www.dtop.pr.gov",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad para el Financiamiento de Facilidades Industriales, Tur\u00edsticas, Educativas, M\u00e9dicas y de Control Ambiental (Banco Gubernamental)",
+    "variation": false,
+    "request_url": "http://www.gdb-pur.com/spa/affiliates/afica.html",
+    "response_url": "https://www.iban.es/spa/affiliates/afica.html",
+    "response_redirects": 1,
+    "response_status_code": 404,
+    "exception": null
+  },
+  {
+    "name": "Autoridad para el Financiamiento de Facilidades Industriales, Tur\u00edsticas, Educativas, M\u00e9dicas y de Control Ambiental (Banco Gubernamental)",
+    "variation": true,
+    "request_url": "https://www.gdb-pur.com/spa/affiliates/afica.html",
+    "response_url": "https://www.gdb-pur.com/spa/affiliates/afica.html",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Autoridad para el Financiamiento de Facilidades Industriales, Tur\u00edsticas, Educativas, M\u00e9dicas y de Control Ambiental (Banco Gubernamental)",
+    "variation": true,
+    "request_url": "https://gdb-pur.com/spa/affiliates/afica.html",
+    "response_url": "https://gdb-pur.com/spa/affiliates/afica.html",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Autoridad para el Financiamiento de Facilidades Industriales, Tur\u00edsticas, Educativas, M\u00e9dicas y de Control Ambiental (Banco Gubernamental)",
+    "variation": true,
+    "request_url": "http://gdb-pur.com/spa/affiliates/afica.html",
+    "response_url": "https://www.iban.es/spa/affiliates/afica.html",
+    "response_redirects": 1,
+    "response_status_code": 404,
+    "exception": null
+  },
+  {
+    "name": "Autoridad para el Financiamiento de la Infraestructura de Puerto Rico (AFI)",
+    "variation": false,
+    "request_url": "https://afi.pr.gov",
+    "response_url": "https://afi.pr.gov/Pages/default.aspx",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad para el Financiamiento de la Infraestructura de Puerto Rico (AFI)",
+    "variation": true,
+    "request_url": "http://afi.pr.gov",
+    "response_url": "https://afi.pr.gov/Pages/default.aspx",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad para el Financiamiento de la Vivienda (Banco Gubernamental)",
+    "variation": false,
+    "request_url": "http://www.afv.pr.gov",
+    "response_url": "https://www.afv.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad para el Financiamiento de la Vivienda (Banco Gubernamental)",
+    "variation": true,
+    "request_url": "https://www.afv.pr.gov",
+    "response_url": "https://www.afv.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Autoridad para el Financiamiento de la Vivienda (Banco Gubernamental)",
+    "variation": true,
+    "request_url": "https://afv.pr.gov",
+    "response_url": "https://afv.pr.gov/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Autoridad para el Financiamiento de la Vivienda (Banco Gubernamental)",
+    "variation": true,
+    "request_url": "http://afv.pr.gov",
+    "response_url": "http://afv.pr.gov/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Autoridad para las Alianzas P\u00fablico Privadas (Banco Gubernamental)",
+    "variation": false,
+    "request_url": "https://www.p3.pr.gov/es/",
+    "response_url": "https://www.p3.pr.gov/es",
+    "response_redirects": 1,
+    "response_status_code": 404,
+    "exception": null
+  },
+  {
+    "name": "Autoridad para las Alianzas P\u00fablico Privadas (Banco Gubernamental)",
+    "variation": true,
+    "request_url": "http://www.p3.pr.gov/es/",
+    "response_url": "https://www.p3.pr.gov/es",
+    "response_redirects": 1,
+    "response_status_code": 404,
+    "exception": null
+  },
+  {
+    "name": "Autoridad para las Alianzas P\u00fablico Privadas (Banco Gubernamental)",
+    "variation": true,
+    "request_url": "http://p3.pr.gov/es/",
+    "response_url": "https://www.p3.pr.gov/es",
+    "response_redirects": 2,
+    "response_status_code": 404,
+    "exception": null
+  },
+  {
+    "name": "Autoridad para las Alianzas P\u00fablico Privadas (Banco Gubernamental)",
+    "variation": true,
+    "request_url": "https://p3.pr.gov/es/",
+    "response_url": "https://www.p3.pr.gov/es",
+    "response_redirects": 2,
+    "response_status_code": 404,
+    "exception": null
+  },
+  {
+    "name": "Banco de Desarrollo Econ\u00f3mico (Dpto. Desarrollo Econ\u00f3mico)",
+    "variation": false,
+    "request_url": "https://www.bde.pr.gov/",
+    "response_url": "https://www.bde.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Banco de Desarrollo Econ\u00f3mico (Dpto. Desarrollo Econ\u00f3mico)",
+    "variation": true,
+    "request_url": "http://www.bde.pr.gov/",
+    "response_url": "http://www.bde.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Banco de Desarrollo Econ\u00f3mico (Dpto. Desarrollo Econ\u00f3mico)",
+    "variation": true,
+    "request_url": "http://bde.pr.gov/",
+    "response_url": "http://bde.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Banco de Desarrollo Econ\u00f3mico (Dpto. Desarrollo Econ\u00f3mico)",
+    "variation": true,
+    "request_url": "https://bde.pr.gov/",
+    "response_url": "https://bde.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Banco Gubernamental de Fomento (BGF)",
+    "variation": false,
+    "request_url": "http://www.gdb-pur.com/spa",
+    "response_url": "https://www.iban.es/spa",
+    "response_redirects": 1,
+    "response_status_code": 404,
+    "exception": null
+  },
+  {
+    "name": "Banco Gubernamental de Fomento (BGF)",
+    "variation": true,
+    "request_url": "https://www.gdb-pur.com/spa",
+    "response_url": "https://www.gdb-pur.com/spa",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Banco Gubernamental de Fomento (BGF)",
+    "variation": true,
+    "request_url": "https://gdb-pur.com/spa",
+    "response_url": "https://gdb-pur.com/spa",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Banco Gubernamental de Fomento (BGF)",
+    "variation": true,
+    "request_url": "http://gdb-pur.com/spa",
+    "response_url": "https://www.iban.es/spa",
+    "response_redirects": 1,
+    "response_status_code": 404,
+    "exception": null
+  },
+  {
+    "name": "Censo de Puerto Rico",
+    "variation": false,
+    "request_url": "https://jp.pr.gov/censo",
+    "response_url": "https://jp.pr.gov/censo-2020/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Censo de Puerto Rico",
+    "variation": true,
+    "request_url": "http://jp.pr.gov/censo",
+    "response_url": "https://jp.pr.gov/censo-2020/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Centro de Diabetes para Puerto Rico (CDPR)",
+    "variation": false,
+    "request_url": "https://www.diabetes.pr.gov/",
+    "response_url": "https://www.diabetes.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Centro de Diabetes para Puerto Rico (CDPR)",
+    "variation": true,
+    "request_url": "http://www.diabetes.pr.gov/",
+    "response_url": "https://www.diabetes.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Centro de Diabetes para Puerto Rico (CDPR)",
+    "variation": true,
+    "request_url": "http://diabetes.pr.gov/",
+    "response_url": "https://www.diabetes.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Centro de Diabetes para Puerto Rico (CDPR)",
+    "variation": true,
+    "request_url": "https://diabetes.pr.gov/",
+    "response_url": "https://www.diabetes.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Centro de Recaudaciones de Ingresos Municipales (CRIM)",
+    "variation": false,
+    "request_url": "https://portal.crim360.com/",
+    "response_url": "https://portal.crim360.com/crimpr/index.htm",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Centro de Recaudaciones de Ingresos Municipales (CRIM)",
+    "variation": true,
+    "request_url": "http://portal.crim360.com/",
+    "response_url": "https://portal.crim360.com/crimpr/index.htm",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Colegio Universitario de Justicia Criminal (Acad\u00e9mia de la Polic\u00eda)",
+    "variation": false,
+    "request_url": "https://policia.pr.gov/",
+    "response_url": "https://www.policia.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Colegio Universitario de Justicia Criminal (Acad\u00e9mia de la Polic\u00eda)",
+    "variation": true,
+    "request_url": "http://policia.pr.gov/",
+    "response_url": "https://www.policia.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n de Derechos Civiles (CDC)",
+    "variation": false,
+    "request_url": "https://cdc.pr.gov/",
+    "response_url": "https://cdc.pr.gov/Pages/default.aspx",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n de Derechos Civiles (CDC)",
+    "variation": true,
+    "request_url": "http://cdc.pr.gov/",
+    "response_url": "https://cdc.pr.gov/Pages/default.aspx",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n de Desarrollo Cooperativo de Puerto Rico (CDCOOP)",
+    "variation": false,
+    "request_url": "https://cdcoop.pr.gov/",
+    "response_url": "https://cdcoop.pr.gov/Pages/default.aspx",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n de Desarrollo Cooperativo de Puerto Rico (CDCOOP)",
+    "variation": true,
+    "request_url": "http://cdcoop.pr.gov/",
+    "response_url": "https://cdcoop.pr.gov/Pages/default.aspx",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n de Investigaci\u00f3n, Procesamiento y Apelaci\u00f3n (CIPA)",
+    "variation": false,
+    "request_url": "https://www.cipa.pr.gov",
+    "response_url": "https://www.cipa.pr.gov/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Comisi\u00f3n de Investigaci\u00f3n, Procesamiento y Apelaci\u00f3n (CIPA)",
+    "variation": true,
+    "request_url": "http://www.cipa.pr.gov",
+    "response_url": "https://agencias.pr.gov/agencias/cipa/Pages/default.aspx",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n de Investigaci\u00f3n, Procesamiento y Apelaci\u00f3n (CIPA)",
+    "variation": true,
+    "request_url": "http://cipa.pr.gov",
+    "response_url": "https://agencias.pr.gov/agencias/cipa/Pages/default.aspx",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n de Investigaci\u00f3n, Procesamiento y Apelaci\u00f3n (CIPA)",
+    "variation": true,
+    "request_url": "https://cipa.pr.gov",
+    "response_url": "https://agencias.pr.gov/agencias/cipa/Pages/default.aspx",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n de Juegos del Gobierno de Puerto Rico",
+    "variation": false,
+    "request_url": "https://comjuegos.pr.gov/",
+    "response_url": "https://agencias.pr.gov/agencias/AIDH/home/Pages/default.aspx",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n de Juegos del Gobierno de Puerto Rico",
+    "variation": true,
+    "request_url": "http://comjuegos.pr.gov/",
+    "response_url": "https://agencias.pr.gov/agencias/AIDH/home/Pages/default.aspx",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n de Servicio P\u00fablico (CSP)",
+    "variation": false,
+    "request_url": "https://ntsp.pr.gov",
+    "response_url": "https://ntsp.pr.gov/Pages/default.aspx",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n de Servicio P\u00fablico (CSP)",
+    "variation": true,
+    "request_url": "http://ntsp.pr.gov",
+    "response_url": "https://ntsp.pr.gov/Pages/default.aspx",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n Estatal de Elecciones (CEE)",
+    "variation": false,
+    "request_url": "https://www.ceepur.org/",
+    "response_url": "https://www.ceepur.org/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n Estatal de Elecciones (CEE)",
+    "variation": true,
+    "request_url": "http://www.ceepur.org/",
+    "response_url": "https://www.ceepur.org/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n Estatal de Elecciones (CEE)",
+    "variation": true,
+    "request_url": "http://ceepur.org/",
+    "response_url": "https://ceepur.org/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n Estatal de Elecciones (CEE)",
+    "variation": true,
+    "request_url": "https://ceepur.org/",
+    "response_url": "https://ceepur.org/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n Industrial de Puerto Rico (CIPR)",
+    "variation": false,
+    "request_url": "https://www.cipr.pr.gov/",
+    "response_url": "https://www.cipr.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n Industrial de Puerto Rico (CIPR)",
+    "variation": true,
+    "request_url": "http://www.cipr.pr.gov/",
+    "response_url": "https://www.cipr.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n Industrial de Puerto Rico (CIPR)",
+    "variation": true,
+    "request_url": "http://cipr.pr.gov/",
+    "response_url": "https://www.cipr.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n Industrial de Puerto Rico (CIPR)",
+    "variation": true,
+    "request_url": "https://cipr.pr.gov/",
+    "response_url": "https://www.cipr.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n para la Seguridad en el Tr\u00e1nsito (CST)",
+    "variation": false,
+    "request_url": "http://www.comisionparalaseguridadeneltransito.com/",
+    "response_url": "http://www.comisionparalaseguridadeneltransito.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comisi\u00f3n para la Seguridad en el Tr\u00e1nsito (CST)",
+    "variation": true,
+    "request_url": "https://www.comisionparalaseguridadeneltransito.com/",
+    "response_url": "https://www.comisionparalaseguridadeneltransito.com/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Comisi\u00f3n para la Seguridad en el Tr\u00e1nsito (CST)",
+    "variation": true,
+    "request_url": "https://comisionparalaseguridadeneltransito.com/",
+    "response_url": "https://comisionparalaseguridadeneltransito.com/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Comisi\u00f3n para la Seguridad en el Tr\u00e1nsito (CST)",
+    "variation": true,
+    "request_url": "http://comisionparalaseguridadeneltransito.com/",
+    "response_url": "http://www.comisionparalaseguridadeneltransito.com/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Compa\u00f1ia de Comercio y Exportaci\u00f3n de Puerto Rico (Dpto. Desarrollo Econ\u00f3mico)",
+    "variation": false,
+    "request_url": "http://comercioyexportacion.com/",
+    "response_url": "https://www.sicilianosgarland.com/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Compa\u00f1ia de Comercio y Exportaci\u00f3n de Puerto Rico (Dpto. Desarrollo Econ\u00f3mico)",
+    "variation": true,
+    "request_url": "https://comercioyexportacion.com/",
+    "response_url": "https://www.sicilianosgarland.com/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Compa\u00f1\u00eda de Fomento Industrial (Dpto. Desarrollo Econ\u00f3mico) ",
+    "variation": false,
+    "request_url": "https://pridco.pr.gov/es",
+    "response_url": "https://www.pridco.pr.gov/es",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Compa\u00f1\u00eda de Fomento Industrial (Dpto. Desarrollo Econ\u00f3mico) ",
+    "variation": true,
+    "request_url": "http://pridco.pr.gov/es",
+    "response_url": "https://www.pridco.pr.gov/es",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Compa\u00f1\u00eda de Turismo de Puerto Rico (Dpto. Desarrollo Econ\u00f3mico)",
+    "variation": false,
+    "request_url": "https://prtourism.com/?lang=es",
+    "response_url": "https://prtourism.com/?lang=es",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Compa\u00f1\u00eda de Turismo de Puerto Rico (Dpto. Desarrollo Econ\u00f3mico)",
+    "variation": true,
+    "request_url": "http://prtourism.com/?lang=es",
+    "response_url": "https://prtourism.com//?lang=es&lang=es",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Compa\u00f1\u00eda para el Desarrollo Integral de la Pen\u00ednsula de Cantera",
+    "variation": false,
+    "request_url": "https://peninsuladecantera.com/",
+    "response_url": "https://peninsuladecantera.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Compa\u00f1\u00eda para el Desarrollo Integral de la Pen\u00ednsula de Cantera",
+    "variation": true,
+    "request_url": "http://peninsuladecantera.com/",
+    "response_url": "http://peninsuladecantera.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Consejo de Educaci\u00f3n de Puerto Rico (CEPR)",
+    "variation": false,
+    "request_url": "https://ce.pr.gov",
+    "response_url": "https://agencias.pr.gov/agencias/cepr/inicio/Pages/default.aspx",
+    "response_redirects": 4,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Consejo de Educaci\u00f3n de Puerto Rico (CEPR)",
+    "variation": true,
+    "request_url": "http://ce.pr.gov",
+    "response_url": "https://agencias.pr.gov/agencias/cepr/inicio/Pages/default.aspx",
+    "response_redirects": 4,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n de la Orquesta Sinf\u00f3nica de PR (COSPR)",
+    "variation": false,
+    "request_url": "https://www.cba.pr.gov/?page_id=14464",
+    "response_url": "https://www.cba.pr.gov/eventos-ospr/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n de la Orquesta Sinf\u00f3nica de PR (COSPR)",
+    "variation": true,
+    "request_url": "http://www.cba.pr.gov/?page_id=14464",
+    "response_url": "https://www.cba.pr.gov/eventos-ospr/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n de la Orquesta Sinf\u00f3nica de PR (COSPR)",
+    "variation": true,
+    "request_url": "http://cba.pr.gov/?page_id=14464",
+    "response_url": "http://cba.pr.gov/?page_id=14464",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Corporaci\u00f3n de la Orquesta Sinf\u00f3nica de PR (COSPR)",
+    "variation": true,
+    "request_url": "https://cba.pr.gov/?page_id=14464",
+    "response_url": "https://cba.pr.gov/?page_id=14464",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Corporaci\u00f3n de PR para la Difusi\u00f3n P\u00fablica (WIPR)",
+    "variation": false,
+    "request_url": "https://wipr.pr/",
+    "response_url": "https://wipr.pr/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n de PR para la Difusi\u00f3n P\u00fablica (WIPR)",
+    "variation": true,
+    "request_url": "http://wipr.pr/",
+    "response_url": "http://wipr.pr/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n de Seguros Agr\u00edcolas (Dpto. Agricultura)",
+    "variation": false,
+    "request_url": "https://www.agricultura.pr/csa",
+    "response_url": "https://www.agricultura.pr/csa",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n de Seguros Agr\u00edcolas (Dpto. Agricultura)",
+    "variation": true,
+    "request_url": "http://www.agricultura.pr/csa",
+    "response_url": "https://www.agricultura.pr/csa",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n de Seguros Agr\u00edcolas (Dpto. Agricultura)",
+    "variation": true,
+    "request_url": "http://agricultura.pr/csa",
+    "response_url": "https://www.agricultura.pr/csa",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n de Seguros Agr\u00edcolas (Dpto. Agricultura)",
+    "variation": true,
+    "request_url": "https://agricultura.pr/csa",
+    "response_url": "https://www.agricultura.pr/csa",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n del Centro Bellas Artes (CBA)",
+    "variation": false,
+    "request_url": "https://www.cba.pr.gov",
+    "response_url": "https://www.cba.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n del Centro Bellas Artes (CBA)",
+    "variation": true,
+    "request_url": "http://www.cba.pr.gov",
+    "response_url": "https://www.cba.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n del Centro Bellas Artes (CBA)",
+    "variation": true,
+    "request_url": "http://cba.pr.gov",
+    "response_url": "http://cba.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Corporaci\u00f3n del Centro Bellas Artes (CBA)",
+    "variation": true,
+    "request_url": "https://cba.pr.gov",
+    "response_url": "https://cba.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Corporaci\u00f3n del Centro Cardiovascular de Puerto Rico y el Caribe (CCCPRC)",
+    "variation": false,
+    "request_url": "https://www.cardiovascular.pr.gov/",
+    "response_url": "https://www.cardiovascular.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n del Centro Cardiovascular de Puerto Rico y el Caribe (CCCPRC)",
+    "variation": true,
+    "request_url": "http://www.cardiovascular.pr.gov/",
+    "response_url": "https://www.cardiovascular.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n del Centro Cardiovascular de Puerto Rico y el Caribe (CCCPRC)",
+    "variation": true,
+    "request_url": "http://cardiovascular.pr.gov/",
+    "response_url": "https://www.cardiovascular.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n del Centro Cardiovascular de Puerto Rico y el Caribe (CCCPRC)",
+    "variation": true,
+    "request_url": "https://cardiovascular.pr.gov/",
+    "response_url": "https://www.cardiovascular.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n del Conservatorio de M\u00fasica (CCM)",
+    "variation": false,
+    "request_url": "https://cmpr.edu/",
+    "response_url": "https://cmpr.edu/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n del Conservatorio de M\u00fasica (CCM)",
+    "variation": true,
+    "request_url": "http://cmpr.edu/",
+    "response_url": "https://cmpr.edu/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n del Fondo del Seguro del Estado (CFSE)",
+    "variation": false,
+    "request_url": "https://www.fondopr.com/",
+    "response_url": "https://www.cfse.pr.gov:443/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n del Fondo del Seguro del Estado (CFSE)",
+    "variation": true,
+    "request_url": "http://www.fondopr.com/",
+    "response_url": "https://www.cfse.pr.gov:443/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n del Fondo del Seguro del Estado (CFSE)",
+    "variation": true,
+    "request_url": "http://fondopr.com/",
+    "response_url": "https://www.cfse.pr.gov:443/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n del Fondo del Seguro del Estado (CFSE)",
+    "variation": true,
+    "request_url": "https://fondopr.com/",
+    "response_url": "https://www.cfse.pr.gov:443/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n del Proyecto ENLACE del Ca\u00f1o Mart\u00edn Pe\u00f1a ",
+    "variation": false,
+    "request_url": "http://martinpena.org/",
+    "response_url": "http://martinpena.org/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n del Proyecto ENLACE del Ca\u00f1o Mart\u00edn Pe\u00f1a ",
+    "variation": true,
+    "request_url": "https://martinpena.org/",
+    "response_url": "https://martinpena.org/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n P\u00fablica para la Supervisi\u00f3n y Seguros de Cooperativas de PR (COSSEC)",
+    "variation": false,
+    "request_url": "https://www.cossec.com/",
+    "response_url": "https://www.cossec.com/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Corporaci\u00f3n P\u00fablica para la Supervisi\u00f3n y Seguros de Cooperativas de PR (COSSEC)",
+    "variation": true,
+    "request_url": "http://www.cossec.com/",
+    "response_url": "http://www.cossec.com/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Corporaci\u00f3n P\u00fablica para la Supervisi\u00f3n y Seguros de Cooperativas de PR (COSSEC)",
+    "variation": true,
+    "request_url": "http://cossec.com/",
+    "response_url": "http://cossec.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Corporaci\u00f3n P\u00fablica para la Supervisi\u00f3n y Seguros de Cooperativas de PR (COSSEC)",
+    "variation": true,
+    "request_url": "https://cossec.com/",
+    "response_url": "https://cossec.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Cuerpo de Bomberos de Puerto Rico",
+    "variation": false,
+    "request_url": "https://bomberos.pr.gov",
+    "response_url": "https://bomberos.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Cuerpo de Bomberos de Puerto Rico",
+    "variation": true,
+    "request_url": "http://bomberos.pr.gov",
+    "response_url": "https://bomberos.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Cuerpo de Emergencias M\u00e9dicas (CEM)",
+    "variation": false,
+    "request_url": "https://cempr.pr.gov/",
+    "response_url": "https://cempr.pr.gov/Pages/default.aspx",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Cuerpo de Emergencias M\u00e9dicas (CEM)",
+    "variation": true,
+    "request_url": "http://cempr.pr.gov/",
+    "response_url": "https://cempr.pr.gov/Pages/default.aspx",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Defensor\u00eda de las Personas con Impedimentos",
+    "variation": false,
+    "request_url": "https://dpi.pr.gov/",
+    "response_url": "https://dpi.pr.gov/Pages/default.aspx",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Defensor\u00eda de las Personas con Impedimentos",
+    "variation": true,
+    "request_url": "http://dpi.pr.gov/",
+    "response_url": "https://dpi.pr.gov/Pages/default.aspx",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de  Justicia - Oficina del Procurador General",
+    "variation": false,
+    "request_url": "http://www.justicia.pr.gov/secretarias-y-oficinas/oficina-del-procurador-general/",
+    "response_url": "http://www.justicia.pr.gov/secretarias-y-oficinas/oficina-del-procurador-general/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de  Justicia - Oficina del Procurador General",
+    "variation": true,
+    "request_url": "https://www.justicia.pr.gov/secretarias-y-oficinas/oficina-del-procurador-general/",
+    "response_url": "https://www.justicia.pr.gov/secretarias-y-oficinas/oficina-del-procurador-general/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Departamento de  Justicia - Oficina del Procurador General",
+    "variation": true,
+    "request_url": "https://justicia.pr.gov/secretarias-y-oficinas/oficina-del-procurador-general/",
+    "response_url": "https://justicia.pr.gov/secretarias-y-oficinas/oficina-del-procurador-general/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Departamento de  Justicia - Oficina del Procurador General",
+    "variation": true,
+    "request_url": "http://justicia.pr.gov/secretarias-y-oficinas/oficina-del-procurador-general/",
+    "response_url": "http://www.justicia.pr.gov/secretarias-y-oficinas/oficina-del-procurador-general/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Agricultura (DA)",
+    "variation": false,
+    "request_url": "https://www.agricultura.pr/",
+    "response_url": "https://www.agricultura.pr/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Agricultura (DA)",
+    "variation": true,
+    "request_url": "http://www.agricultura.pr/",
+    "response_url": "https://www.agricultura.pr/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Agricultura (DA)",
+    "variation": true,
+    "request_url": "http://agricultura.pr/",
+    "response_url": "https://www.agricultura.pr/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Agricultura (DA)",
+    "variation": true,
+    "request_url": "https://agricultura.pr/",
+    "response_url": "https://www.agricultura.pr/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Asuntos del Consumidor  (DACO)",
+    "variation": false,
+    "request_url": "https://www.daco.pr.gov",
+    "response_url": "https://www.daco.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Asuntos del Consumidor  (DACO)",
+    "variation": true,
+    "request_url": "http://www.daco.pr.gov",
+    "response_url": "https://www.daco.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Asuntos del Consumidor  (DACO)",
+    "variation": true,
+    "request_url": "http://daco.pr.gov",
+    "response_url": "http://daco.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 404,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Asuntos del Consumidor  (DACO)",
+    "variation": true,
+    "request_url": "https://daco.pr.gov",
+    "response_url": "https://daco.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Departamento de Correcci\u00f3n y Rehabilitaci\u00f3n (DCR)",
+    "variation": false,
+    "request_url": "http://dcr.pr.gov",
+    "response_url": "https://dcr.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Correcci\u00f3n y Rehabilitaci\u00f3n (DCR)",
+    "variation": true,
+    "request_url": "https://dcr.pr.gov",
+    "response_url": "https://dcr.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Desarrollo Econ\u00f3mico y Comercio (DDEC)",
+    "variation": false,
+    "request_url": "https://de.pr.gov",
+    "response_url": "https://de.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Desarrollo Econ\u00f3mico y Comercio (DDEC)",
+    "variation": true,
+    "request_url": "http://de.pr.gov",
+    "response_url": "https://de.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Educaci\u00f3n (DE)",
+    "variation": false,
+    "request_url": "http://www.de.gobierno.pr/",
+    "response_url": "http://www.de.gobierno.pr/",
+    "response_redirects": 0,
+    "response_status_code": 404,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Educaci\u00f3n (DE)",
+    "variation": true,
+    "request_url": "https://www.de.gobierno.pr/",
+    "response_url": "https://www.de.gobierno.pr/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Departamento de Educaci\u00f3n (DE)",
+    "variation": true,
+    "request_url": "https://de.gobierno.pr/",
+    "response_url": "https://de.gobierno.pr/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Departamento de Educaci\u00f3n (DE)",
+    "variation": true,
+    "request_url": "http://de.gobierno.pr/",
+    "response_url": "http://de.gobierno.pr/",
+    "response_redirects": 0,
+    "response_status_code": 404,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Estado",
+    "variation": false,
+    "request_url": "https://www.estado.pr.gov/",
+    "response_url": "https://www.estado.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Estado",
+    "variation": true,
+    "request_url": "http://www.estado.pr.gov/",
+    "response_url": "https://www.estado.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Estado",
+    "variation": true,
+    "request_url": "http://estado.pr.gov/",
+    "response_url": "https://www.estado.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Estado",
+    "variation": true,
+    "request_url": "https://estado.pr.gov/",
+    "response_url": "https://www.estado.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Hacienda (DH)",
+    "variation": false,
+    "request_url": "https://hacienda.pr.gov",
+    "response_url": "https://hacienda.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Hacienda (DH)",
+    "variation": true,
+    "request_url": "http://hacienda.pr.gov",
+    "response_url": "https://hacienda.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Justicia (DJ)",
+    "variation": false,
+    "request_url": "http://www.justicia.pr.gov/",
+    "response_url": "http://www.justicia.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Justicia (DJ)",
+    "variation": true,
+    "request_url": "https://www.justicia.pr.gov/",
+    "response_url": "https://www.justicia.pr.gov/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Departamento de Justicia (DJ)",
+    "variation": true,
+    "request_url": "https://justicia.pr.gov/",
+    "response_url": "https://justicia.pr.gov/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Departamento de Justicia (DJ)",
+    "variation": true,
+    "request_url": "http://justicia.pr.gov/",
+    "response_url": "http://justicia.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de la Familia (DF)",
+    "variation": false,
+    "request_url": "https://familia.pr.gov",
+    "response_url": "https://www.familia.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de la Familia (DF)",
+    "variation": true,
+    "request_url": "http://familia.pr.gov",
+    "response_url": "https://www.familia.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de la Vivienda (DV)",
+    "variation": false,
+    "request_url": "https://www.vivienda.pr.gov/",
+    "response_url": "https://www.vivienda.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de la Vivienda (DV)",
+    "variation": true,
+    "request_url": "http://www.vivienda.pr.gov/",
+    "response_url": "https://www.vivienda.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de la Vivienda (DV)",
+    "variation": true,
+    "request_url": "http://vivienda.pr.gov/",
+    "response_url": "http://vivienda.pr.gov/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Departamento de la Vivienda (DV)",
+    "variation": true,
+    "request_url": "https://vivienda.pr.gov/",
+    "response_url": "https://vivienda.pr.gov/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Departamento de Recreaci\u00f3n y Deportes (DRD)",
+    "variation": false,
+    "request_url": "https://www.drdpuertorico.com/",
+    "response_url": "https://www.drd.pr.gov",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Recreaci\u00f3n y Deportes (DRD)",
+    "variation": true,
+    "request_url": "http://www.drdpuertorico.com/",
+    "response_url": "https://www.drd.pr.gov",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Recreaci\u00f3n y Deportes (DRD)",
+    "variation": true,
+    "request_url": "http://drdpuertorico.com/",
+    "response_url": "https://www.drd.pr.gov",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Recreaci\u00f3n y Deportes (DRD)",
+    "variation": true,
+    "request_url": "https://drdpuertorico.com/",
+    "response_url": "https://www.drd.pr.gov",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Recursos Naturales y Ambientales (DRNA)",
+    "variation": false,
+    "request_url": "https://www.drna.pr.gov/",
+    "response_url": "https://www.drna.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Recursos Naturales y Ambientales (DRNA)",
+    "variation": true,
+    "request_url": "http://www.drna.pr.gov/",
+    "response_url": "https://www.drna.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Recursos Naturales y Ambientales (DRNA)",
+    "variation": true,
+    "request_url": "http://drna.pr.gov/",
+    "response_url": "https://www.drna.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Recursos Naturales y Ambientales (DRNA)",
+    "variation": true,
+    "request_url": "https://drna.pr.gov/",
+    "response_url": "https://www.drna.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Salud (DS)",
+    "variation": false,
+    "request_url": "https://www.salud.gov.pr/",
+    "response_url": "https://www.salud.gov.pr/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Departamento de Salud (DS)",
+    "variation": true,
+    "request_url": "http://www.salud.gov.pr/",
+    "response_url": "https://www.salud.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Salud (DS)",
+    "variation": true,
+    "request_url": "http://salud.gov.pr/",
+    "response_url": "https://www.salud.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Salud (DS)",
+    "variation": true,
+    "request_url": "https://salud.gov.pr/",
+    "response_url": "https://salud.gov.pr/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Departamento de Transportaci\u00f3n y Obras P\u00fablicas (DTOP)",
+    "variation": false,
+    "request_url": "https://www.dtop.pr.gov/",
+    "response_url": "https://www.dtop.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Transportaci\u00f3n y Obras P\u00fablicas (DTOP)",
+    "variation": true,
+    "request_url": "http://www.dtop.pr.gov/",
+    "response_url": "https://www.dtop.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Transportaci\u00f3n y Obras P\u00fablicas (DTOP)",
+    "variation": true,
+    "request_url": "http://dtop.pr.gov/",
+    "response_url": "https://www.dtop.pr.gov",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento de Transportaci\u00f3n y Obras P\u00fablicas (DTOP)",
+    "variation": true,
+    "request_url": "https://dtop.pr.gov/",
+    "response_url": "https://www.dtop.pr.gov",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Departamento del Trabajo y Recursos Humanos (DTRH)",
+    "variation": false,
+    "request_url": "http://www.trabajo.pr.gov",
+    "response_url": "https://www.trabajo.pr.gov",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Departamento del Trabajo y Recursos Humanos (DTRH)",
+    "variation": true,
+    "request_url": "https://www.trabajo.pr.gov",
+    "response_url": "https://www.trabajo.pr.gov/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Departamento del Trabajo y Recursos Humanos (DTRH)",
+    "variation": true,
+    "request_url": "https://trabajo.pr.gov",
+    "response_url": "https://trabajo.pr.gov/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Departamento del Trabajo y Recursos Humanos (DTRH)",
+    "variation": true,
+    "request_url": "http://trabajo.pr.gov",
+    "response_url": "https://www.trabajo.pr.gov",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Escuela de Artes Pl\u00e1sticas (EAP)",
+    "variation": false,
+    "request_url": "https://www.eap.edu",
+    "response_url": "https://www.eap.edu/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Escuela de Artes Pl\u00e1sticas (EAP)",
+    "variation": true,
+    "request_url": "http://www.eap.edu",
+    "response_url": "https://www.eap.edu/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Escuela de Artes Pl\u00e1sticas (EAP)",
+    "variation": true,
+    "request_url": "http://eap.edu",
+    "response_url": "https://www.eap.edu/wp-signup.php?new=eap.edu",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Escuela de Artes Pl\u00e1sticas (EAP)",
+    "variation": true,
+    "request_url": "https://eap.edu",
+    "response_url": "https://www.eap.edu/wp-signup.php?new=eap.edu",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Fideicomiso Institucional de la Guardia Nacional de Puerto Rico (FIGNA)",
+    "variation": false,
+    "request_url": "http://figna.pr.gov/",
+    "response_url": "https://figna.pr.gov/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Fideicomiso Institucional de la Guardia Nacional de Puerto Rico (FIGNA)",
+    "variation": true,
+    "request_url": "https://figna.pr.gov/",
+    "response_url": "https://figna.pr.gov/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Instituto de Ciencias Forenses (ICF)",
+    "variation": false,
+    "request_url": "http://www.icf.pr.gov",
+    "response_url": "http://www.icf.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Instituto de Ciencias Forenses (ICF)",
+    "variation": true,
+    "request_url": "https://www.icf.pr.gov",
+    "response_url": "https://www.icf.pr.gov/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Instituto de Ciencias Forenses (ICF)",
+    "variation": true,
+    "request_url": "https://icf.pr.gov",
+    "response_url": "https://icf.pr.gov/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Instituto de Ciencias Forenses (ICF)",
+    "variation": true,
+    "request_url": "http://icf.pr.gov",
+    "response_url": "http://icf.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Instituto de Cultura Puertorrique\u00f1a (ICP)",
+    "variation": false,
+    "request_url": "https://www.icp.pr.gov/",
+    "response_url": "https://www.icp.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 406,
+    "exception": null
+  },
+  {
+    "name": "Instituto de Cultura Puertorrique\u00f1a (ICP)",
+    "variation": true,
+    "request_url": "http://www.icp.pr.gov/",
+    "response_url": "http://www.icp.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 406,
+    "exception": null
+  },
+  {
+    "name": "Instituto de Cultura Puertorrique\u00f1a (ICP)",
+    "variation": true,
+    "request_url": "http://icp.pr.gov/",
+    "response_url": "http://icp.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 406,
+    "exception": null
+  },
+  {
+    "name": "Instituto de Cultura Puertorrique\u00f1a (ICP)",
+    "variation": true,
+    "request_url": "https://icp.pr.gov/",
+    "response_url": "https://icp.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 406,
+    "exception": null
+  },
+  {
+    "name": "Instituto de Estad\u00edsticas de Puerto Rico (IEPR)",
+    "variation": false,
+    "request_url": "https://estadisticas.pr",
+    "response_url": "https://estadisticas.pr/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Instituto de Estad\u00edsticas de Puerto Rico (IEPR)",
+    "variation": true,
+    "request_url": "http://estadisticas.pr",
+    "response_url": "https://estadisticas.pr/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Junta de Calidad Ambiental (JCA)",
+    "variation": false,
+    "request_url": "https://www.drna.pr.gov/otrora-jca/",
+    "response_url": "https://www.drna.pr.gov/otrora-jca/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Junta de Calidad Ambiental (JCA)",
+    "variation": true,
+    "request_url": "http://www.drna.pr.gov/otrora-jca/",
+    "response_url": "https://www.drna.pr.gov/otrora-jca/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Junta de Calidad Ambiental (JCA)",
+    "variation": true,
+    "request_url": "http://drna.pr.gov/otrora-jca/",
+    "response_url": "https://www.drna.pr.gov/otrora-jca/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Junta de Calidad Ambiental (JCA)",
+    "variation": true,
+    "request_url": "https://drna.pr.gov/otrora-jca/",
+    "response_url": "https://www.drna.pr.gov/otrora-jca/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Junta de Libertad Bajo Palabra (JLBP)",
+    "variation": false,
+    "request_url": "https://jlbp.pr.gov/",
+    "response_url": "https://jlbp.pr.gov/Pages/default.aspx",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Junta de Libertad Bajo Palabra (JLBP)",
+    "variation": true,
+    "request_url": "http://jlbp.pr.gov/",
+    "response_url": "https://jlbp.pr.gov/Pages/default.aspx",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Junta de Planificaci\u00f3n (JP)",
+    "variation": false,
+    "request_url": "https://jp.pr.gov/",
+    "response_url": "https://jp.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Junta de Planificaci\u00f3n (JP)",
+    "variation": true,
+    "request_url": "http://jp.pr.gov/",
+    "response_url": "https://jp.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Junta de Relaciones del Trabajo (JRT)",
+    "variation": false,
+    "request_url": "https://jrt.pr.gov/",
+    "response_url": "https://jrt.pr.gov/Pages/default.aspx",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Junta de Relaciones del Trabajo (JRT)",
+    "variation": true,
+    "request_url": "http://jrt.pr.gov/",
+    "response_url": "https://jrt.pr.gov/Pages/default.aspx",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Junta Reglamentadora de Telecomunicaciones (JRTPR)",
+    "variation": false,
+    "request_url": "https://jrtpr.pr.gov/",
+    "response_url": "https://jrtpr.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Junta Reglamentadora de Telecomunicaciones (JRTPR)",
+    "variation": true,
+    "request_url": "http://jrtpr.pr.gov/",
+    "response_url": "http://jrtpr.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Loter\u00eda Tradicional de Puerto Rico",
+    "variation": false,
+    "request_url": "https://loteriasdepuertorico.pr.gov/loteria-tradicional/",
+    "response_url": "https://loteriasdepuertorico.pr.gov/loteria-tradicional/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Loter\u00eda Tradicional de Puerto Rico",
+    "variation": true,
+    "request_url": "http://loteriasdepuertorico.pr.gov/loteria-tradicional/",
+    "response_url": "https://loteriasdepuertorico.pr.gov/loteria-tradicional/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Negociado de la Polic\u00eda de Puerto Rico",
+    "variation": false,
+    "request_url": "https://policia.pr.gov/",
+    "response_url": "https://www.policia.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Negociado de la Polic\u00eda de Puerto Rico",
+    "variation": true,
+    "request_url": "http://policia.pr.gov/",
+    "response_url": "https://www.policia.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Negociado del 911",
+    "variation": false,
+    "request_url": "https://www.dsp.pr.gov/negociados/negociado-de-sistema-de-emergencias-9-1-1",
+    "response_url": "https://www.dsp.pr.gov/negociados/negociado-de-sistema-de-emergencias-9-1-1",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Negociado del 911",
+    "variation": true,
+    "request_url": "http://www.dsp.pr.gov/negociados/negociado-de-sistema-de-emergencias-9-1-1",
+    "response_url": "https://www.dsp.pr.gov/negociados/negociado-de-sistema-de-emergencias-9-1-1",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Negociado del 911",
+    "variation": true,
+    "request_url": "http://dsp.pr.gov/negociados/negociado-de-sistema-de-emergencias-9-1-1",
+    "response_url": "https://www.dsp.pr.gov/negociados/negociado-de-sistema-de-emergencias-9-1-1",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Negociado del 911",
+    "variation": true,
+    "request_url": "https://dsp.pr.gov/negociados/negociado-de-sistema-de-emergencias-9-1-1",
+    "response_url": "https://www.dsp.pr.gov/negociados/negociado-de-sistema-de-emergencias-9-1-1",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina de Administraci\u00f3n de los Tribunales (OAT)",
+    "variation": false,
+    "request_url": "https://poderjudicial.pr/index.php/oficina-administracion-de-los-tribunales/",
+    "response_url": "https://poderjudicial.pr/oficina-administracion-de-los-tribunales/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina de Administraci\u00f3n de los Tribunales (OAT)",
+    "variation": true,
+    "request_url": "http://poderjudicial.pr/index.php/oficina-administracion-de-los-tribunales/",
+    "response_url": "https://poderjudicial.pr/oficina-administracion-de-los-tribunales/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina de Administraci\u00f3n y Transformaci\u00f3n de los Recursos Humanos del Gobierno de Puerto Rico ( OATRH )",
+    "variation": false,
+    "request_url": "https://oatrh.pr.gov/",
+    "response_url": "https://oatrh.pr.gov/Pages/Default.aspx",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina de Administraci\u00f3n y Transformaci\u00f3n de los Recursos Humanos del Gobierno de Puerto Rico ( OATRH )",
+    "variation": true,
+    "request_url": "http://oatrh.pr.gov/",
+    "response_url": "https://oatrh.pr.gov/Pages/Default.aspx",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina de \u00c9tica Gubernamental (OEGPR)",
+    "variation": false,
+    "request_url": "https://www.eticapr.net/",
+    "response_url": "https://www.eticapr.com",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina de \u00c9tica Gubernamental (OEGPR)",
+    "variation": true,
+    "request_url": "http://www.eticapr.net/",
+    "response_url": "https://www.eticapr.com",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina de \u00c9tica Gubernamental (OEGPR)",
+    "variation": true,
+    "request_url": "http://eticapr.net/",
+    "response_url": "https://eticapr.com",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina de \u00c9tica Gubernamental (OEGPR)",
+    "variation": true,
+    "request_url": "https://eticapr.net/",
+    "response_url": "https://eticapr.com",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina de Gerencia de Permisos (OGPe)",
+    "variation": false,
+    "request_url": "https://sbp.ogpe.pr.gov/",
+    "response_url": "https://sbp.ogpe.pr.gov/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Oficina de Gerencia de Permisos (OGPe)",
+    "variation": true,
+    "request_url": "http://sbp.ogpe.pr.gov/",
+    "response_url": "https://sbp.ogpe.pr.gov/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Oficina de Gerencia y Presupuesto (OGP)",
+    "variation": false,
+    "request_url": "https://ogp.pr.gov/",
+    "response_url": "https://ogp.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina de Gerencia y Presupuesto (OGP)",
+    "variation": true,
+    "request_url": "http://ogp.pr.gov/",
+    "response_url": "https://ogp.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina de la Comisionada Residente en Washington",
+    "variation": false,
+    "request_url": "https://gonzalez-colon.house.gov/",
+    "response_url": "https://gonzalez-colon.house.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina de la Comisionada Residente en Washington",
+    "variation": true,
+    "request_url": "http://gonzalez-colon.house.gov/",
+    "response_url": "https://gonzalez-colon.house.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina de la Procuradora de las Mujeres (OPM)",
+    "variation": false,
+    "request_url": "https://www.mujer.pr.gov/",
+    "response_url": "https://www.mujer.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina de la Procuradora de las Mujeres (OPM)",
+    "variation": true,
+    "request_url": "http://www.mujer.pr.gov/",
+    "response_url": "https://www.mujer.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina de la Procuradora de las Mujeres (OPM)",
+    "variation": true,
+    "request_url": "http://mujer.pr.gov/",
+    "response_url": "https://www.mujer.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina de la Procuradora de las Mujeres (OPM)",
+    "variation": true,
+    "request_url": "https://mujer.pr.gov/",
+    "response_url": "https://www.mujer.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Comisionado de Instituciones Financieras (OCIF)",
+    "variation": false,
+    "request_url": "https://ocif.pr.gov/",
+    "response_url": "https://www.ocif.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Comisionado de Instituciones Financieras (OCIF)",
+    "variation": true,
+    "request_url": "http://ocif.pr.gov/",
+    "response_url": "https://www.ocif.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Comisionado de Seguros (OCS)",
+    "variation": false,
+    "request_url": "https://ocs.pr.gov/",
+    "response_url": "https://www.ocs.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Comisionado de Seguros (OCS)",
+    "variation": true,
+    "request_url": "http://ocs.pr.gov/",
+    "response_url": "https://www.ocs.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Contralor de Puerto Rico (OCPR)",
+    "variation": false,
+    "request_url": "https://www.ocpr.gov.pr/",
+    "response_url": "https://www.ocpr.gov.pr/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Contralor de Puerto Rico (OCPR)",
+    "variation": true,
+    "request_url": "http://www.ocpr.gov.pr/",
+    "response_url": "https://www.ocpr.gov.pr/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Contralor de Puerto Rico (OCPR)",
+    "variation": true,
+    "request_url": "http://ocpr.gov.pr/",
+    "response_url": "https://www.ocpr.gov.pr/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Contralor de Puerto Rico (OCPR)",
+    "variation": true,
+    "request_url": "https://ocpr.gov.pr/",
+    "response_url": "https://www.ocpr.gov.pr/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Contralor Electoral (OCE)",
+    "variation": false,
+    "request_url": "http://oce.pr.gov",
+    "response_url": "http://oce.pr.gov/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Oficina del Contralor Electoral (OCE)",
+    "variation": true,
+    "request_url": "https://oce.pr.gov",
+    "response_url": "https://oce.pr.gov/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Oficina del Gobernador (La Fortaleza)",
+    "variation": false,
+    "request_url": "https://www.fortaleza.pr.gov/",
+    "response_url": "https://www.fortaleza.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Gobernador (La Fortaleza)",
+    "variation": true,
+    "request_url": "http://www.fortaleza.pr.gov/",
+    "response_url": "https://www.fortaleza.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Gobernador (La Fortaleza)",
+    "variation": true,
+    "request_url": "http://fortaleza.pr.gov/",
+    "response_url": "https://www.fortaleza.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Gobernador (La Fortaleza)",
+    "variation": true,
+    "request_url": "https://fortaleza.pr.gov/",
+    "response_url": "https://www.fortaleza.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Procurador de las Personas de Edad Avanzada (OPPEA)",
+    "variation": false,
+    "request_url": "https://oppea.pr.gov/",
+    "response_url": "https://www.oppea.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Procurador de las Personas de Edad Avanzada (OPPEA)",
+    "variation": true,
+    "request_url": "http://oppea.pr.gov/",
+    "response_url": "https://www.oppea.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Procurador del Ciudadano (OMBUDSMAN)",
+    "variation": false,
+    "request_url": "https://ombudsman.pr.gov/",
+    "response_url": "https://www.ombudsman.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Procurador del Ciudadano (OMBUDSMAN)",
+    "variation": true,
+    "request_url": "http://ombudsman.pr.gov/",
+    "response_url": "https://www.ombudsman.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Procurador del Paciente (OPP)",
+    "variation": false,
+    "request_url": "https://opp.pr.gov/",
+    "response_url": "https://www.opp.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Procurador del Paciente (OPP)",
+    "variation": true,
+    "request_url": "http://opp.pr.gov/",
+    "response_url": "https://www.opp.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Procurador del Veterano (OPV)",
+    "variation": false,
+    "request_url": "https://opv.pr.gov",
+    "response_url": "https://www.opv.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina del Procurador del Veterano (OPV)",
+    "variation": true,
+    "request_url": "http://opv.pr.gov",
+    "response_url": "https://www.opv.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina Estatal de Conservaci\u00f3n Hist\u00f3rica (OECH)",
+    "variation": false,
+    "request_url": "https://oech.pr.gov/",
+    "response_url": "https://www.oech.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina Estatal de Conservaci\u00f3n Hist\u00f3rica (OECH)",
+    "variation": true,
+    "request_url": "http://oech.pr.gov/",
+    "response_url": "https://www.oech.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Oficina Estatal de Pol\u00edtica P\u00fablica Energ\u00e9tica",
+    "variation": false,
+    "request_url": "https://ddec.pr.gov/programa-de-politica-publica-energetica",
+    "response_url": "https://www.desarrollo.pr.gov/programa-de-politica-publica-energetica",
+    "response_redirects": 2,
+    "response_status_code": 404,
+    "exception": null
+  },
+  {
+    "name": "Oficina Estatal de Pol\u00edtica P\u00fablica Energ\u00e9tica",
+    "variation": true,
+    "request_url": "http://ddec.pr.gov/programa-de-politica-publica-energetica",
+    "response_url": "https://www.desarrollo.pr.gov/programa-de-politica-publica-energetica",
+    "response_redirects": 3,
+    "response_status_code": 404,
+    "exception": null
+  },
+  {
+    "name": "Panel sobre el Fiscal Especial Independiente (FEI)",
+    "variation": false,
+    "request_url": "http://panelfei.com/",
+    "response_url": "http://panelfei.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Panel sobre el Fiscal Especial Independiente (FEI)",
+    "variation": true,
+    "request_url": "https://panelfei.com/",
+    "response_url": "https://panelfei.com/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Programa de Servicios con Antelaci\u00f3n al Juicio  (PSAJ)",
+    "variation": false,
+    "request_url": "http://www.osaj.pr.gov",
+    "response_url": "http://www.osaj.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Programa de Servicios con Antelaci\u00f3n al Juicio  (PSAJ)",
+    "variation": true,
+    "request_url": "https://www.osaj.pr.gov",
+    "response_url": "https://www.osaj.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Programa de Servicios con Antelaci\u00f3n al Juicio  (PSAJ)",
+    "variation": true,
+    "request_url": "https://osaj.pr.gov",
+    "response_url": "https://osaj.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Programa de Servicios con Antelaci\u00f3n al Juicio  (PSAJ)",
+    "variation": true,
+    "request_url": "http://osaj.pr.gov",
+    "response_url": "http://osaj.pr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Puerto Rico Innovation & Technology Service",
+    "variation": false,
+    "request_url": "https://www.prits.pr.gov/",
+    "response_url": "https://www.prits.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Puerto Rico Innovation & Technology Service",
+    "variation": true,
+    "request_url": "http://www.prits.pr.gov/",
+    "response_url": "https://www.prits.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Puerto Rico Innovation & Technology Service",
+    "variation": true,
+    "request_url": "http://prits.pr.gov/",
+    "response_url": "https://www.prits.pr.gov/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Puerto Rico Innovation & Technology Service",
+    "variation": true,
+    "request_url": "https://prits.pr.gov/",
+    "response_url": "https://www.prits.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Sistema de Retiro Para Maestros (SRM)",
+    "variation": false,
+    "request_url": "https://www.srm.pr.gov/",
+    "response_url": "https://www.srm.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Sistema de Retiro Para Maestros (SRM)",
+    "variation": true,
+    "request_url": "http://www.srm.pr.gov/",
+    "response_url": "https://www.srm.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Sistema de Retiro Para Maestros (SRM)",
+    "variation": true,
+    "request_url": "http://srm.pr.gov/",
+    "response_url": "https://www.srm.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Sistema de Retiro Para Maestros (SRM)",
+    "variation": true,
+    "request_url": "https://srm.pr.gov/",
+    "response_url": "https://www.srm.pr.gov/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Sistemas de Informaci\u00f3n de Justicia Criminal (SIJC)",
+    "variation": false,
+    "request_url": "http://www.justicia.pr.gov/secretarias-y-oficinas/sistema-de-informacion-de-justicia-criminal-sijc/",
+    "response_url": "http://www.justicia.pr.gov/secretarias-y-oficinas/sistema-de-informacion-de-justicia-criminal-sijc/",
+    "response_redirects": 0,
+    "response_status_code": 500,
+    "exception": null
+  },
+  {
+    "name": "Sistemas de Informaci\u00f3n de Justicia Criminal (SIJC)",
+    "variation": true,
+    "request_url": "https://www.justicia.pr.gov/secretarias-y-oficinas/sistema-de-informacion-de-justicia-criminal-sijc/",
+    "response_url": "https://www.justicia.pr.gov/secretarias-y-oficinas/sistema-de-informacion-de-justicia-criminal-sijc/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Sistemas de Informaci\u00f3n de Justicia Criminal (SIJC)",
+    "variation": true,
+    "request_url": "https://justicia.pr.gov/secretarias-y-oficinas/sistema-de-informacion-de-justicia-criminal-sijc/",
+    "response_url": "https://justicia.pr.gov/secretarias-y-oficinas/sistema-de-informacion-de-justicia-criminal-sijc/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Sistemas de Informaci\u00f3n de Justicia Criminal (SIJC)",
+    "variation": true,
+    "request_url": "http://justicia.pr.gov/secretarias-y-oficinas/sistema-de-informacion-de-justicia-criminal-sijc/",
+    "response_url": "http://www.justicia.pr.gov/secretarias-y-oficinas/sistema-de-informacion-de-justicia-criminal-sijc/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Tribunal Supremo de Puerto Rico",
+    "variation": false,
+    "request_url": "https://poderjudicial.pr/index.php/tribunal-supremo/",
+    "response_url": "https://poderjudicial.pr/tribunal-supremo/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Tribunal Supremo de Puerto Rico",
+    "variation": true,
+    "request_url": "http://poderjudicial.pr/index.php/tribunal-supremo/",
+    "response_url": "https://poderjudicial.pr/tribunal-supremo/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Universidad de Puerto Rico  (UPR)",
+    "variation": false,
+    "request_url": "https://www.upr.edu/",
+    "response_url": "https://www.upr.edu/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Universidad de Puerto Rico  (UPR)",
+    "variation": true,
+    "request_url": "http://www.upr.edu/",
+    "response_url": "https://www.upr.edu/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Universidad de Puerto Rico  (UPR)",
+    "variation": true,
+    "request_url": "http://upr.edu/",
+    "response_url": "https://upr.edu/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Universidad de Puerto Rico  (UPR)",
+    "variation": true,
+    "request_url": "https://upr.edu/",
+    "response_url": "https://upr.edu/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Aguada",
+    "variation": false,
+    "request_url": "http://aguada.gov.pr/",
+    "response_url": "https://aguada.gov.pr/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Aguada",
+    "variation": true,
+    "request_url": "https://aguada.gov.pr/",
+    "response_url": "https://aguada.gov.pr/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Barranquitas",
+    "variation": false,
+    "request_url": "http://www.barranquitaspr.org",
+    "response_url": "http://www.barranquitaspr.org/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Barranquitas",
+    "variation": true,
+    "request_url": "https://www.barranquitaspr.org",
+    "response_url": "https://www.barranquitaspr.org/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Barranquitas",
+    "variation": true,
+    "request_url": "https://barranquitaspr.org",
+    "response_url": "https://barranquitaspr.org/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Barranquitas",
+    "variation": true,
+    "request_url": "http://barranquitaspr.org",
+    "response_url": "http://barranquitaspr.org/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Bayam\u00f3n",
+    "variation": false,
+    "request_url": "http://www.municipiodebayamon.com/",
+    "response_url": "https://www.municipiodebayamon.com/",
+    "response_redirects": 1,
+    "response_status_code": 403,
+    "exception": null
+  },
+  {
+    "name": "Bayam\u00f3n",
+    "variation": true,
+    "request_url": "https://www.municipiodebayamon.com/",
+    "response_url": "https://www.municipiodebayamon.com/",
+    "response_redirects": 0,
+    "response_status_code": 403,
+    "exception": null
+  },
+  {
+    "name": "Bayam\u00f3n",
+    "variation": true,
+    "request_url": "https://municipiodebayamon.com/",
+    "response_url": "https://municipiodebayamon.com/",
+    "response_redirects": 0,
+    "response_status_code": 403,
+    "exception": null
+  },
+  {
+    "name": "Bayam\u00f3n",
+    "variation": true,
+    "request_url": "http://municipiodebayamon.com/",
+    "response_url": "https://municipiodebayamon.com/",
+    "response_redirects": 1,
+    "response_status_code": 403,
+    "exception": null
+  },
+  {
+    "name": "Cabo Rojo",
+    "variation": false,
+    "request_url": "http://www.ciudadcaborojo.net",
+    "response_url": "http://ww25.ciudadcaborojo.net/?subid1=20240708-1023-40c4-abfe-c6cbc9f2c96e",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Cabo Rojo",
+    "variation": true,
+    "request_url": "https://www.ciudadcaborojo.net",
+    "response_url": "http://ww25.ciudadcaborojo.net/?subid1=20240708-1023-454c-a3ae-678752612219",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Cabo Rojo",
+    "variation": true,
+    "request_url": "https://ciudadcaborojo.net",
+    "response_url": "http://ww25.ciudadcaborojo.net/?subid1=20240708-1023-4545-a9f9-7e2bd33b8dfe",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Cabo Rojo",
+    "variation": true,
+    "request_url": "http://ciudadcaborojo.net",
+    "response_url": "http://ww25.ciudadcaborojo.net/?subid1=20240708-1023-45cc-bb74-b36996bd8286",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Caguas",
+    "variation": false,
+    "request_url": "http://www.caguas.gov.pr",
+    "response_url": "http://www.caguas.gov.pr/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Caguas",
+    "variation": true,
+    "request_url": "https://www.caguas.gov.pr",
+    "response_url": "https://www.caguas.gov.pr/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Caguas",
+    "variation": true,
+    "request_url": "https://caguas.gov.pr",
+    "response_url": "https://caguas.gov.pr/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Caguas",
+    "variation": true,
+    "request_url": "http://caguas.gov.pr",
+    "response_url": "https://caguas.gov.pr/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Camuy",
+    "variation": false,
+    "request_url": "http://www.camuypuertorico.com",
+    "response_url": "http://www.camuypuertorico.com/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Camuy",
+    "variation": true,
+    "request_url": "https://www.camuypuertorico.com",
+    "response_url": "https://www.camuypuertorico.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Camuy",
+    "variation": true,
+    "request_url": "https://camuypuertorico.com",
+    "response_url": "https://camuypuertorico.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Camuy",
+    "variation": true,
+    "request_url": "http://camuypuertorico.com",
+    "response_url": "http://camuypuertorico.com/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Carolina",
+    "variation": false,
+    "request_url": "http://www.municipiocarolina.com/",
+    "response_url": "https://www.municipiocarolina.com/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Carolina",
+    "variation": true,
+    "request_url": "https://www.municipiocarolina.com/",
+    "response_url": "https://www.municipiocarolina.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Carolina",
+    "variation": true,
+    "request_url": "https://municipiocarolina.com/",
+    "response_url": "https://www.municipiocarolina.com/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Carolina",
+    "variation": true,
+    "request_url": "http://municipiocarolina.com/",
+    "response_url": "https://www.municipiocarolina.com/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Cayey",
+    "variation": false,
+    "request_url": "http://www.cayey.gobierno.pr",
+    "response_url": "http://www.cayey.gobierno.pr/",
+    "response_redirects": 0,
+    "response_status_code": 403,
+    "exception": null
+  },
+  {
+    "name": "Cayey",
+    "variation": true,
+    "request_url": "https://www.cayey.gobierno.pr",
+    "response_url": "https://www.cayey.gobierno.pr/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Cayey",
+    "variation": true,
+    "request_url": "https://cayey.gobierno.pr",
+    "response_url": "https://cayey.gobierno.pr/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Cayey",
+    "variation": true,
+    "request_url": "http://cayey.gobierno.pr",
+    "response_url": "http://cayey.gobierno.pr/",
+    "response_redirects": 0,
+    "response_status_code": 403,
+    "exception": null
+  },
+  {
+    "name": "Ceiba",
+    "variation": false,
+    "request_url": "http://www.ceiba-pr.com",
+    "response_url": "http://www.ceiba-pr.com/",
+    "response_redirects": 0,
+    "response_status_code": 500,
+    "exception": null
+  },
+  {
+    "name": "Ceiba",
+    "variation": true,
+    "request_url": "https://www.ceiba-pr.com",
+    "response_url": "https://www.ceiba-pr.com/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Ceiba",
+    "variation": true,
+    "request_url": "https://ceiba-pr.com",
+    "response_url": "https://ceiba-pr.com/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Ceiba",
+    "variation": true,
+    "request_url": "http://ceiba-pr.com",
+    "response_url": "http://www.ceiba-pr.com/",
+    "response_redirects": 1,
+    "response_status_code": 500,
+    "exception": null
+  },
+  {
+    "name": "Coamo",
+    "variation": false,
+    "request_url": "http://www.coamo.puertorico.pr",
+    "response_url": "https://www.facebook.com/MunCoamo/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Coamo",
+    "variation": true,
+    "request_url": "https://www.coamo.puertorico.pr",
+    "response_url": "https://www.coamo.puertorico.pr/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Coamo",
+    "variation": true,
+    "request_url": "https://coamo.puertorico.pr",
+    "response_url": "https://coamo.puertorico.pr/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Coamo",
+    "variation": true,
+    "request_url": "http://coamo.puertorico.pr",
+    "response_url": "https://www.facebook.com/MunCoamo/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Comer\u00edo",
+    "variation": false,
+    "request_url": "http://www.comerio.gobierno.pr",
+    "response_url": "http://www.comerio.gobierno.pr/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Comer\u00edo",
+    "variation": true,
+    "request_url": "https://www.comerio.gobierno.pr",
+    "response_url": "https://www.comerio.gobierno.pr/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Comer\u00edo",
+    "variation": true,
+    "request_url": "https://comerio.gobierno.pr",
+    "response_url": "https://comerio.gobierno.pr/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Comer\u00edo",
+    "variation": true,
+    "request_url": "http://comerio.gobierno.pr",
+    "response_url": "http://comerio.gobierno.pr/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Fajardo",
+    "variation": false,
+    "request_url": "http://www.fajardopr.org",
+    "response_url": "https://fajardopr.org/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Fajardo",
+    "variation": true,
+    "request_url": "https://www.fajardopr.org",
+    "response_url": "https://fajardopr.org/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Fajardo",
+    "variation": true,
+    "request_url": "https://fajardopr.org",
+    "response_url": "https://fajardopr.org/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Fajardo",
+    "variation": true,
+    "request_url": "http://fajardopr.org",
+    "response_url": "https://fajardopr.org/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Guaynabo",
+    "variation": false,
+    "request_url": "http://www.guaynabocity.gov.pr/guaynabo/",
+    "response_url": "http://www.guaynabocity.gov.pr/guaynabo/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Guaynabo",
+    "variation": true,
+    "request_url": "https://www.guaynabocity.gov.pr/guaynabo/",
+    "response_url": "https://www.guaynabocity.gov.pr/guaynabo/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Guaynabo",
+    "variation": true,
+    "request_url": "https://guaynabocity.gov.pr/guaynabo/",
+    "response_url": "https://guaynabocity.gov.pr/guaynabo/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Guaynabo",
+    "variation": true,
+    "request_url": "http://guaynabocity.gov.pr/guaynabo/",
+    "response_url": "http://guaynabocity.gov.pr/guaynabo/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Gurabo",
+    "variation": false,
+    "request_url": "http://www.gurabopr.com/",
+    "response_url": "http://www.gurabopr.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Gurabo",
+    "variation": true,
+    "request_url": "https://www.gurabopr.com/",
+    "response_url": "https://www.gurabopr.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Gurabo",
+    "variation": true,
+    "request_url": "https://gurabopr.com/",
+    "response_url": "https://gurabopr.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Gurabo",
+    "variation": true,
+    "request_url": "http://gurabopr.com/",
+    "response_url": "http://gurabopr.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Lajas",
+    "variation": false,
+    "request_url": "http://www.lajas.gobierno.pr",
+    "response_url": "http://www.lajas.gobierno.pr/",
+    "response_redirects": 0,
+    "response_status_code": 403,
+    "exception": null
+  },
+  {
+    "name": "Lajas",
+    "variation": true,
+    "request_url": "https://www.lajas.gobierno.pr",
+    "response_url": "https://www.lajas.gobierno.pr/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Lajas",
+    "variation": true,
+    "request_url": "https://lajas.gobierno.pr",
+    "response_url": "https://lajas.gobierno.pr/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Lajas",
+    "variation": true,
+    "request_url": "http://lajas.gobierno.pr",
+    "response_url": "http://lajas.gobierno.pr/",
+    "response_redirects": 0,
+    "response_status_code": 403,
+    "exception": null
+  },
+  {
+    "name": "Manat\u00ed",
+    "variation": false,
+    "request_url": "http://www.manati.pr/",
+    "response_url": "https://www.manati.pr/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Manat\u00ed",
+    "variation": true,
+    "request_url": "https://www.manati.pr/",
+    "response_url": "https://www.manati.pr/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Manat\u00ed",
+    "variation": true,
+    "request_url": "https://manati.pr/",
+    "response_url": "https://www.manati.pr/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Manat\u00ed",
+    "variation": true,
+    "request_url": "http://manati.pr/",
+    "response_url": "https://www.manati.pr/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Mayag\u00fcez",
+    "variation": false,
+    "request_url": "http://www.mayaguezpr.gov/",
+    "response_url": "http://www.mayaguezpr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Mayag\u00fcez",
+    "variation": true,
+    "request_url": "https://www.mayaguezpr.gov/",
+    "response_url": "https://www.mayaguezpr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Mayag\u00fcez",
+    "variation": true,
+    "request_url": "https://mayaguezpr.gov/",
+    "response_url": "https://mayaguezpr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Mayag\u00fcez",
+    "variation": true,
+    "request_url": "http://mayaguezpr.gov/",
+    "response_url": "http://mayaguezpr.gov/",
+    "exception": "ConnectTimeout"
+  },
+  {
+    "name": "Orocovis",
+    "variation": false,
+    "request_url": "http://www.orocovispr.org/",
+    "response_url": "https://www.orocovispr.org/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Orocovis",
+    "variation": true,
+    "request_url": "https://www.orocovispr.org/",
+    "response_url": "https://www.orocovispr.org/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Orocovis",
+    "variation": true,
+    "request_url": "https://orocovispr.org/",
+    "response_url": "https://orocovispr.org/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Orocovis",
+    "variation": true,
+    "request_url": "http://orocovispr.org/",
+    "response_url": "https://www.orocovispr.org/",
+    "response_redirects": 2,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Ponce",
+    "variation": false,
+    "request_url": "http://www.ponceweb.org",
+    "response_url": "http://ww16.ponceweb.org/?sub1=20240708-1024-3897-b446-c6873f5aac37",
+    "response_redirects": 1,
+    "response_status_code": 403,
+    "exception": null
+  },
+  {
+    "name": "Ponce",
+    "variation": true,
+    "request_url": "https://www.ponceweb.org",
+    "response_url": "http://ww16.ponceweb.org/?sub1=20240708-1024-39c5-b87c-2dcfd5f0992f",
+    "response_redirects": 1,
+    "response_status_code": 403,
+    "exception": null
+  },
+  {
+    "name": "Ponce",
+    "variation": true,
+    "request_url": "https://ponceweb.org",
+    "response_url": "http://ww16.ponceweb.org/?sub1=20240708-1024-4029-90bd-fcc3ef1deb3d",
+    "response_redirects": 1,
+    "response_status_code": 403,
+    "exception": null
+  },
+  {
+    "name": "Ponce",
+    "variation": true,
+    "request_url": "http://ponceweb.org",
+    "response_url": "http://ww16.ponceweb.org/?sub1=20240708-1024-41df-8fe8-fdabc16595f1",
+    "response_redirects": 1,
+    "response_status_code": 403,
+    "exception": null
+  },
+  {
+    "name": "Rinc\u00f3n",
+    "variation": false,
+    "request_url": "http://www.municipioderincon.pr.gov",
+    "response_url": "http://www.municipioderincon.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 406,
+    "exception": null
+  },
+  {
+    "name": "Rinc\u00f3n",
+    "variation": true,
+    "request_url": "https://www.municipioderincon.pr.gov",
+    "response_url": "https://www.municipioderincon.pr.gov/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Rinc\u00f3n",
+    "variation": true,
+    "request_url": "https://municipioderincon.pr.gov",
+    "response_url": "https://municipioderincon.pr.gov/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "Rinc\u00f3n",
+    "variation": true,
+    "request_url": "http://municipioderincon.pr.gov",
+    "response_url": "http://municipioderincon.pr.gov/",
+    "response_redirects": 0,
+    "response_status_code": 406,
+    "exception": null
+  },
+  {
+    "name": "San Juan",
+    "variation": false,
+    "request_url": "https://www.sanjuan.pr/",
+    "response_url": "https://www.sanjuan.pr/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "San Juan",
+    "variation": true,
+    "request_url": "http://www.sanjuan.pr/",
+    "response_url": "https://sanjuan.pr/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "San Juan",
+    "variation": true,
+    "request_url": "http://sanjuan.pr/",
+    "response_url": "https://sanjuan.pr/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "San Juan",
+    "variation": true,
+    "request_url": "https://sanjuan.pr/",
+    "response_url": "https://sanjuan.pr/",
+    "exception": "SSLError"
+  },
+  {
+    "name": "San Sebasti\u00e1n",
+    "variation": false,
+    "request_url": "http://www.ssdelpepino.com",
+    "response_url": "http://www.ssdelpepino.com/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "San Sebasti\u00e1n",
+    "variation": true,
+    "request_url": "https://www.ssdelpepino.com",
+    "response_url": "https://www.ssdelpepino.com/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "San Sebasti\u00e1n",
+    "variation": true,
+    "request_url": "https://ssdelpepino.com",
+    "response_url": "https://ssdelpepino.com/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "San Sebasti\u00e1n",
+    "variation": true,
+    "request_url": "http://ssdelpepino.com",
+    "response_url": "http://ssdelpepino.com/",
+    "exception": "ConnectionError"
+  },
+  {
+    "name": "Trujillo Alto",
+    "variation": false,
+    "request_url": "http://www.trujilloalto.pr/",
+    "response_url": "https://www.trujilloalto.pr/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Trujillo Alto",
+    "variation": true,
+    "request_url": "https://www.trujilloalto.pr/",
+    "response_url": "https://www.trujilloalto.pr/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Trujillo Alto",
+    "variation": true,
+    "request_url": "https://trujilloalto.pr/",
+    "response_url": "https://www.trujilloalto.pr/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Trujillo Alto",
+    "variation": true,
+    "request_url": "http://trujilloalto.pr/",
+    "response_url": "https://www.trujilloalto.pr/",
+    "response_redirects": 1,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Vieques",
+    "variation": false,
+    "request_url": "http://www.viequesrenace.com",
+    "response_url": "http://www.viequesrenace.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Vieques",
+    "variation": true,
+    "request_url": "https://www.viequesrenace.com",
+    "response_url": "https://www.viequesrenace.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Vieques",
+    "variation": true,
+    "request_url": "https://viequesrenace.com",
+    "response_url": "https://viequesrenace.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  },
+  {
+    "name": "Vieques",
+    "variation": true,
+    "request_url": "http://viequesrenace.com",
+    "response_url": "http://viequesrenace.com/",
+    "response_redirects": 0,
+    "response_status_code": 200,
+    "exception": null
+  }
+]
